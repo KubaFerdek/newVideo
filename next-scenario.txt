@@ -1,0 +1,189 @@
+1
+Topic:
+Po śmierci matki kobieta znajduje list od ojca, którego nigdy nie poznała.
+
+Genre:
+Family Mystery Drama
+
+Target Audience:
+Women 25-55
+2
+Topic:
+Na pogrzebie matki kobieta dowiaduje się, że ma siostrę bliźniaczkę.
+
+Genre:
+Family Drama
+
+Target Audience:
+Women 25-55
+3
+Topic:
+Starsza kobieta zostawia wnuczce klucz do mieszkania, o którym nikt nie wiedział.
+
+Genre:
+Mystery Drama
+
+Target Audience:
+Women 25-55
+4
+Topic:
+Po rozwodzie kobieta odkrywa stare zdjęcie łączące jej męża z jej rodziną.
+
+Genre:
+Relationship Mystery
+
+Target Audience:
+Women 25-55
+5
+Topic:
+Pielęgniarka rozpoznaje w pacjencie człowieka, którego szukała od dzieciństwa.
+
+Genre:
+Emotional Mystery
+
+Target Audience:
+Women 25-55
+6
+Topic:
+Kobieta codziennie znajduje kwiaty pod drzwiami, aż odkrywa ich nadawcę.
+
+Genre:
+Mystery Romance
+
+Target Audience:
+Women 25-55
+7
+Topic:
+Podczas remontu domu kobieta znajduje ukrytą skrytkę należącą do swojej babci.
+
+Genre:
+Family Mystery
+
+Target Audience:
+Women 25-55
+8
+Topic:
+Młoda matka znajduje zdjęcie swojego dziecka wykonane wiele lat przed jego narodzinami.
+
+Genre:
+Mystery Drama
+
+Target Audience:
+Women 25-55
+9
+Topic:
+Kobieta odkrywa, że przez lata otrzymywała listy, których nigdy jej nie przekazano.
+
+Genre:
+Family Drama
+
+Target Audience:
+Women 25-55
+10
+Topic:
+Po śmierci dziadka wnuczka znajduje dziennik opisujący tajemnicę rodzinną sprzed trzydziestu lat.
+
+Genre:
+Family Mystery
+
+Target Audience:
+Women 25-55
+11
+Topic:
+Kobieta rozpoznaje siebie na starym zdjęciu wykonanym wiele lat przed jej narodzinami.
+
+Genre:
+Mystery Drama
+
+Target Audience:
+Women 25-55
+12
+Topic:
+Po przeprowadzce kobieta znajduje ukryte wiadomości pozostawione przez poprzednią właścicielkę mieszkania.
+
+Genre:
+Mystery
+
+Target Audience:
+Women 25-55
+13
+Topic:
+Młoda nauczycielka odkrywa, że jedno z dzieci zna sekrety jej rodziny.
+
+Genre:
+Mystery Drama
+
+Target Audience:
+Women 25-55
+14
+Topic:
+Kobieta otrzymuje paczkę wysłaną przez zmarłego męża wiele lat wcześniej.
+
+Genre:
+Emotional Mystery
+
+Target Audience:
+Women 25-55
+15
+Topic:
+Podczas wesela kobieta odkrywa, że jej rodzina ukrywała prawdę o jej pochodzeniu.
+
+Genre:
+Family Drama
+
+Target Audience:
+Women 25-55
+16
+Topic:
+Dziennikarka trafia na dokument mogący zniszczyć reputację jednej z najbogatszych rodzin w kraju.
+
+Genre:
+Mystery Thriller
+
+Target Audience:
+Women 25-55
+17
+Topic:
+Po zaginięciu ojca kobieta znajduje wskazówki prowadzące do sekretnego życia, o którym nie miała pojęcia.
+
+Genre:
+Mystery Drama
+
+Target Audience:
+Women 25-55
+18
+Topic:
+Kobieta znajduje w starej książce zdjęcie matki z człowiekiem, którego zna cała Polska.
+
+Genre:
+Family Mystery
+
+Target Audience:
+Women 25-55
+19
+Topic:
+Po latach kobieta spotyka nieznajomego, który zna każdy szczegół z jej dzieciństwa.
+
+Genre:
+Mystery Drama
+
+Target Audience:
+Women 25-55
+20
+Topic:
+Młoda prawniczka odkrywa testament zawierający nazwisko osoby, która oficjalnie nie istnieje.
+
+Genre:
+Mystery Thriller
+
+Target Audience:
+Women 25-55
+
+Ja bym zaczął od 1, 2, 14, 15, 18 i 19.
+
+18 jest taka sama jak moje 0
+
+wygenerowane
+0
+14
+18

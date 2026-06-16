@@ -1,0 +1,232 @@
+{
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "characters": [
+        "Aleksandra Nowak"
+      ],
+      "visualDescription": "Aleksandra siedzi sama w kancelarii i czyta testament zmarłego milionera.",
+      "narration": "Jedno nazwisko sprawiło, że zatrzymałam wzrok na środku dokumentu.",
+      "onScreenText": "Warszawa",
+      "emotion": "zaskoczenie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 2,
+      "characters": [
+        "Aleksandra Nowak"
+      ],
+      "visualDescription": "Zbliżenie na testament i zapis o ogromnym spadku dla nieznanej kobiety.",
+      "narration": "Większość majątku miała trafić do osoby, której nie było w żadnym rejestrze.",
+      "onScreenText": "Spadek wart miliony",
+      "emotion": "niedowierzanie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 3,
+      "characters": [
+        "Aleksandra Nowak"
+      ],
+      "visualDescription": "Aleksandra przegląda bazę danych na komputerze w pustym biurze.",
+      "narration": "Każde wyszukiwanie kończyło się tym samym komunikatem.",
+      "onScreenText": "Brak wyników",
+      "emotion": "frustracja",
+      "cliffhanger": false
+    },
+    {
+      "sceneNumber": 4,
+      "characters": [
+        "Aleksandra Nowak",
+        "Michał Wysocki"
+      ],
+      "visualDescription": "Michał Wysocki w eleganckim biurze patrzy chłodno na Aleksandrę.",
+      "narration": "Jedyny znany spadkobierca chciał zamknąć sprawę natychmiast.",
+      "onScreenText": "To tylko błąd",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 5,
+      "characters": [
+        "Aleksandra Nowak",
+        "Michał Wysocki"
+      ],
+      "visualDescription": "Michał przesuwa kopertę po stole w stronę Aleksandry.",
+      "narration": "Propozycja była prosta. Przestań szukać, a wszyscy będą zadowoleni.",
+      "onScreenText": "Nie drąż tego",
+      "emotion": "presja",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 6,
+      "characters": [
+        "Aleksandra Nowak",
+        "Katarzyna Zielińska"
+      ],
+      "visualDescription": "Katarzyna pokazuje Aleksandrze stare wycinki prasowe w kawiarni.",
+      "narration": "Dziennikarka znalazła wzmiankę o kobiecie z identycznym nazwiskiem sprzed trzydziestu lat.",
+      "onScreenText": "Archiwum",
+      "emotion": "zaciekawienie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 7,
+      "characters": [
+        "Aleksandra Nowak"
+      ],
+      "visualDescription": "Aleksandra przegląda pożółkłe dokumenty w państwowym archiwum.",
+      "narration": "Strona z najważniejszym wpisem została wyrwana.",
+      "onScreenText": "Brakująca karta",
+      "emotion": "niepokój",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 8,
+      "characters": [
+        "Aleksandra Nowak",
+        "Katarzyna Zielińska"
+      ],
+      "visualDescription": "Obie kobiety analizują stare zdjęcie znalezione w archiwach.",
+      "narration": "Na odwrocie fotografii ktoś zostawił tylko jedno słowo.",
+      "onScreenText": "Brzeziny",
+      "emotion": "intryga",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 9,
+      "characters": [
+        "Aleksandra Nowak"
+      ],
+      "visualDescription": "Aleksandra przyjeżdża do małego miasteczka i zatrzymuje się przed starym budynkiem.",
+      "narration": "Wszystkie ślady prowadziły właśnie tutaj.",
+      "onScreenText": "Brzeziny",
+      "emotion": "determinacja",
+      "cliffhanger": false
+    },
+    {
+      "sceneNumber": 10,
+      "characters": [
+        "Aleksandra Nowak"
+      ],
+      "visualDescription": "Starsza kobieta zamyka drzwi przed Aleksandrą po usłyszeniu nazwiska.",
+      "narration": "Reakcja była natychmiastowa. Jakby wypowiedzenie tego nazwiska było zakazane.",
+      "onScreenText": "Proszę stąd odejść",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 11,
+      "characters": [
+        "Aleksandra Nowak",
+        "Katarzyna Zielińska"
+      ],
+      "visualDescription": "Katarzyna odbiera telefon i gwałtownie zmienia wyraz twarzy.",
+      "narration": "Ktoś włamał się do jej mieszkania kilka godzin po rozpoczęciu śledztwa.",
+      "onScreenText": "Przypadek?",
+      "emotion": "strach",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 12,
+      "characters": [
+        "Aleksandra Nowak"
+      ],
+      "visualDescription": "Aleksandra znajduje ukryte pudełko na strychu starego domu.",
+      "narration": "W środku leżały dokumenty, które miały zostać zniszczone.",
+      "onScreenText": "Tajne akta",
+      "emotion": "ekscytacja",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 13,
+      "characters": [
+        "Aleksandra Nowak"
+      ],
+      "visualDescription": "Aleksandra czyta akt urodzenia z drżącymi dłońmi.",
+      "narration": "Nazwisko z testamentu jednak istniało.",
+      "onScreenText": "Dowód odnaleziony",
+      "emotion": "ulga",
+      "cliffhanger": false
+    },
+    {
+      "sceneNumber": 14,
+      "characters": [
+        "Aleksandra Nowak"
+      ],
+      "visualDescription": "Zbliżenie na dokument z zamazaną rubryką dotyczącą ojca.",
+      "narration": "Ktoś celowo usunął jedno nazwisko.",
+      "onScreenText": "Ojciec: nieznany",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 15,
+      "characters": [
+        "Aleksandra Nowak",
+        "Michał Wysocki"
+      ],
+      "visualDescription": "Michał pojawia się niespodziewanie przed budynkiem archiwum.",
+      "narration": "Wyglądał, jakby wiedział dokładnie, co właśnie odkryłam.",
+      "onScreenText": "Za późno",
+      "emotion": "zagrożenie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 16,
+      "characters": [
+        "Aleksandra Nowak",
+        "Michał Wysocki"
+      ],
+      "visualDescription": "Michał patrzy Aleksandrze prosto w oczy podczas napiętej rozmowy.",
+      "narration": "Powiedział tylko jedno zdanie, które zmieniło wszystko.",
+      "onScreenText": "Ona nie powinna żyć",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 17,
+      "characters": [
+        "Aleksandra Nowak",
+        "Katarzyna Zielińska"
+      ],
+      "visualDescription": "Katarzyna pokazuje Aleksandrze stare zdjęcie rodzinne.",
+      "narration": "Na fotografii sprzed lat ktoś wyglądał zadziwiająco znajomo.",
+      "onScreenText": "Rodzinna tajemnica",
+      "emotion": "dezorientacja",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 18,
+      "characters": [
+        "Aleksandra Nowak"
+      ],
+      "visualDescription": "Aleksandra porównuje zdjęcie z własnym odbiciem w lustrze.",
+      "narration": "Podobieństwo było niemożliwe do zignorowania.",
+      "onScreenText": "Dlaczego ja?",
+      "emotion": "wstrząs",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 19,
+      "characters": [
+        "Aleksandra Nowak"
+      ],
+      "visualDescription": "Aleksandra otwiera ostatnią zaklejoną kopertę znalezioną w aktach.",
+      "narration": "W środku znajdował się list napisany specjalnie do niej.",
+      "onScreenText": "Dla Aleksandry",
+      "emotion": "niedowierzanie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 20,
+      "characters": [
+        "Aleksandra Nowak"
+      ],
+      "visualDescription": "Zbliżenie na pierwsze zdanie listu i przerażoną twarz Aleksandry.",
+      "narration": "Pierwsze słowa ujawniły, że tajemnicza spadkobierczyni była związana z nią od samego początku.",
+      "onScreenText": "To twoja matka...",
+      "emotion": "szok",
+      "cliffhanger": true
+    }
+  ]
+}

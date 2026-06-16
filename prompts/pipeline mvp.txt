@@ -1,0 +1,33 @@
+topic.txt
+↓
+01-story-bible.md
+↓
+story-bible.json
+
+story-bible.json
+↓
+02-scenes-generator.md
+↓
+scenes.json
+
+story-bible.json + scenes.json
+↓
+03-image-prompts.md
+↓
+image-prompts.json
+
+image-prompts.json
+↓
+GPT Images
+↓
+images
+
+scenes.json
+↓
+TTS
+
+images + audio
+↓
+Remotion
+↓
+video.mp4

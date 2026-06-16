@@ -1,0 +1,22 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node models/node_modules/tsx/dist/cli.mjs scripts/generate.ts",
+    "generate:all": "pnpm run generate && pnpm run images",
+    "reel": "node scripts/build-reel.js",
+    "login": "npm --prefix models run chatgpt:login",
+    "chatgpt:browser": "npm --prefix models run chatgpt:browser",
+    "images": "npm --prefix models run chatgpt:images",
+    "chatgpt:images:browser": "npm --prefix models run chatgpt:images:browser",
+    "playwright:install": "npm --prefix models run playwright:install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ffmpeg-static": "^5.2.0"
+  }
+}

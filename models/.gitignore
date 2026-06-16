@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+contentGenerator/node_modules/
+materials/node_modules/
+
+# Browser profiles (session data)
+browser-profiles/
+chatgpt-profile/
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db

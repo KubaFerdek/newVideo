@@ -1,0 +1,34 @@
+{
+  "title": "Nazwisko Bez Śladu",
+  "genre": "Mystery Thriller",
+  "setting": "Współczesna Polska. Akcja rozgrywa się głównie w Warszawie między kancelarią prawną, archiwami państwowymi, luksusowymi apartamentami oraz niewielkim miasteczkiem, w którym przed laty wydarzyło się coś, co ktoś bardzo chciał ukryć.",
+  "mainConflict": "Młoda prawniczka otrzymuje zadanie wykonania testamentu zmarłego milionera. W dokumencie większość majątku zostaje zapisana kobiecie o imieniu i nazwisku, które nie istnieje w żadnym oficjalnym rejestrze. Gdy próbuje odnaleźć spadkobierczynię, odkrywa, że wpływowi ludzie zrobią wszystko, by prawda nigdy nie wyszła na jaw.",
+  "centralMystery": "Kim jest kobieta wskazana w testamencie i dlaczego nie istnieje żaden dokument potwierdzający jej narodziny, życie ani tożsamość, mimo że zmarły pozostawił jej fortunę wartą miliony?",
+  "emotionalHook": "Każdy kolejny trop prowadzi prawniczkę bliżej szokującej prawdy, która może zniszczyć nie tylko reputację wpływowej rodziny, ale również całkowicie odmienić jej własne życie.",
+  "characters": [
+    {
+      "id": "char_1",
+      "name": "Aleksandra Nowak",
+      "age": 29,
+      "role": "Młoda prawniczka prowadząca sprawę testamentu",
+      "personality": "Inteligentna, ambitna, dociekliwa, odważna, emocjonalnie powściągliwa, nie odpuszcza nawet pod presją",
+      "visualIdentity": "Atrakcyjna kobieta o długich ciemnobrązowych włosach, zielonych oczach i eleganckim biznesowym stylu. Najczęściej nosi jasne koszule, marynarki i subtelny makijaż. Profesjonalny wygląd kontrastuje z narastającym zmęczeniem podczas śledztwa."
+    },
+    {
+      "id": "char_2",
+      "name": "Michał Wysocki",
+      "age": 42,
+      "role": "Wpływowy przedsiębiorca i jedyny znany spadkobierca zmarłego milionera",
+      "personality": "Charyzmatyczny, opanowany, inteligentny, manipulujący, skrywający emocje, nieprzewidywalny",
+      "visualIdentity": "Przystojny mężczyzna o ciemnych włosach z pierwszymi siwymi pasmami, nienagannie ubrany w drogie garnitury. Zawsze sprawia wrażenie człowieka kontrolującego sytuację."
+    },
+    {
+      "id": "char_3",
+      "name": "Katarzyna Zielińska",
+      "age": 34,
+      "role": "Dziennikarka śledcza pomagająca Aleksandrze",
+      "personality": "Odważna, bezpośrednia, sceptyczna, błyskotliwa, lojalna, gotowa ryzykować dla prawdy",
+      "visualIdentity": "Kobieta o krótkich blond włosach i niebieskich oczach. Preferuje praktyczne ubrania, skórzaną kurtkę i wygodne buty. Zawsze nosi przy sobie aparat fotograficzny lub dyktafon."
+    }
+  ]
+}

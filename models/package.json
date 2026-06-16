@@ -1,0 +1,38 @@
+{
+  "name": "@site-generator/models",
+  "version": "1.0.0",
+  "description": "AI browser automation models (ChatGPT, Gemini) for content generation",
+  "type": "module",
+  "main": "index.ts",
+  "exports": {
+    "./chatgpt": "./chatgpt-browser.ts",
+    "./gemini": "./gemini-browser.ts"
+  },
+  "scripts": {
+    "chatgpt:login": "tsx chatgpt-login.ts",
+    "chatgpt:browser": "tsx chatgpt-open-browser.ts",
+    "chatgpt:images": "tsx chatgpt-generate-images-auto-browser.ts",
+    "chatgpt:images:local": "tsx chatgpt-generate-images.ts",
+    "chatgpt:images:browser": "tsx chatgpt-generate-images-auto-browser.ts",
+    "gemini:login": "tsx gemini-login.ts",
+    "playwright:install": "playwright install chromium",
+    "type-check": "tsc --noEmit"
+  },
+  "keywords": [
+    "ai",
+    "chatgpt",
+    "gemini",
+    "browser-automation",
+    "playwright"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

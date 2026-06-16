@@ -1,0 +1,184 @@
+{
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "characters": ["Natalia Kowalska"],
+      "visualDescription": "Natalia obsługuje gości w małej rodzinnej restauracji podczas wieczornego ruchu.",
+      "narration": "Przez całe życie była zwykłą kelnerką. Nie miała pojęcia, że ktoś ukrywał przed nią prawdę, która mogła zmienić wszystko.",
+      "onScreenText": "Ukrywali to 28 lat",
+      "emotion": "zmęczenie",
+      "cliffhanger": false
+    },
+    {
+      "sceneNumber": 2,
+      "characters": ["Natalia Kowalska"],
+      "visualDescription": "Po zamknięciu restauracji Natalia porządkuje rzeczy po zmarłej matce.",
+      "narration": "Wśród starych rzeczy znalazła kopertę schowaną tak głęboko, jakby ktoś nie chciał, żeby kiedykolwiek ją otworzyła.",
+      "onScreenText": "Mama coś ukrywała",
+      "emotion": "ciekawość",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 3,
+      "characters": ["Natalia Kowalska"],
+      "visualDescription": "Natalia wyciąga z koperty pożółkłe zdjęcie młodej kobiety stojącej obok eleganckiego mężczyzny.",
+      "narration": "Na zdjęciu była jej matka. Obok niej stał mężczyzna, którego twarz znała niemal cała Polska.",
+      "onScreenText": "Kim był ten człowiek?",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 4,
+      "characters": ["Natalia Kowalska"],
+      "visualDescription": "Natalia wpisuje nazwisko ze zdjęcia w telefonie.",
+      "narration": "Kiedy wpisała jego nazwisko do telefonu, zamarła. To był jeden z najbogatszych ludzi w kraju.",
+      "onScreenText": "Milioner ze zdjęcia",
+      "emotion": "niedowierzanie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 5,
+      "characters": ["Natalia Kowalska", "Aleksander Wysocki"],
+      "visualDescription": "Natalia dostarcza catering do luksusowej siedziby firmy Wysockich.",
+      "narration": "Kilka dni później los zaprowadził ją dokładnie tam, gdzie nigdy nie powinna się znaleźć.",
+      "onScreenText": "Siedziba Wysocki Group",
+      "emotion": "napięcie",
+      "cliffhanger": false
+    },
+    {
+      "sceneNumber": 6,
+      "characters": ["Natalia Kowalska", "Aleksander Wysocki"],
+      "visualDescription": "Natalia przypadkowo wpada na Aleksandra w korytarzu, rozsypując dokumenty.",
+      "narration": "Gdy ich spojrzenia się spotkały, oboje poczuli coś dziwnie znajomego.",
+      "onScreenText": "To nie był przypadek",
+      "emotion": "zakłopotanie",
+      "cliffhanger": false
+    },
+    {
+      "sceneNumber": 7,
+      "characters": ["Natalia Kowalska"],
+      "visualDescription": "Natalia zauważa zdjęcie ojca Aleksandra wiszące w gabinecie.",
+      "narration": "Wtedy zobaczyła fotografię na ścianie. To był dokładnie ten sam mężczyzna ze zdjęcia jej matki.",
+      "onScreenText": "To on...",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 8,
+      "characters": ["Natalia Kowalska"],
+      "visualDescription": "Natalia wraca do domu i analizuje zdjęcie pod lampką.",
+      "narration": "Przyglądając się fotografii, odkryła coś, czego wcześniej nie zauważyła. Ukryty adres zapisany na odwrocie.",
+      "onScreenText": "Ukryta wskazówka",
+      "emotion": "determinacja",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 9,
+      "characters": ["Natalia Kowalska", "Ewa Malinowska"],
+      "visualDescription": "Natalia odwiedza starszą kobietę mieszkającą pod wskazanym adresem.",
+      "narration": "Starsza kobieta pobladła natychmiast po zobaczeniu zdjęcia.",
+      "onScreenText": "Rozpoznała fotografię",
+      "emotion": "niepokój",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 10,
+      "characters": ["Natalia Kowalska", "Ewa Malinowska"],
+      "visualDescription": "Ewa nerwowo zamyka drzwi mieszkania.",
+      "narration": "Zanim zatrzasnęła drzwi, powiedziała tylko jedno zdanie: 'Jeśli chcesz żyć spokojnie, przestań tego szukać.'",
+      "onScreenText": "Przestań tego szukać",
+      "emotion": "strach",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 11,
+      "characters": ["Natalia Kowalska", "Aleksander Wysocki"],
+      "visualDescription": "Aleksander zaprasza Natalię na rozmowę po kolejnym przypadkowym spotkaniu.",
+      "narration": "Aleksander nie potrafił wyjaśnić, dlaczego ciągle o niej myśli. Jakby znał ją od lat.",
+      "onScreenText": "Nie mogę o niej zapomnieć",
+      "emotion": "zainteresowanie",
+      "cliffhanger": false
+    },
+    {
+      "sceneNumber": 12,
+      "characters": ["Natalia Kowalska", "Aleksander Wysocki"],
+      "visualDescription": "Rozmawiają przy stoliku z widokiem na Warszawę.",
+      "narration": "Między nimi zaczęło pojawiać się uczucie, którego żadne z nich się nie spodziewało.",
+      "onScreenText": "Coraz bliżej siebie",
+      "emotion": "romantyczne napięcie",
+      "cliffhanger": false
+    },
+    {
+      "sceneNumber": 13,
+      "characters": ["Ewa Malinowska"],
+      "visualDescription": "Ewa otwiera starą skórzaną teczkę pełną dokumentów.",
+      "narration": "Ewa wiedziała, że sekret ukrywany przez dziesięciolecia właśnie zaczyna wychodzić na jaw.",
+      "onScreenText": "Prawda wychodzi na jaw",
+      "emotion": "poczucie winy",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 14,
+      "characters": ["Natalia Kowalska", "Ewa Malinowska"],
+      "visualDescription": "Ewa przekazuje Natalii pożółkły dokument.",
+      "narration": "Przekazała Natalii dokument, którego istnienie mogło zniszczyć reputację jednej z najpotężniejszych rodzin w kraju.",
+      "onScreenText": "Poufne dokumenty",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 15,
+      "characters": ["Natalia Kowalska"],
+      "visualDescription": "Natalia czyta dokument siedząc sama na ławce.",
+      "narration": "Gdy przeczytała nazwisko swojej matki obok nazwiska Wysocki, zrozumiała, że to nie był przypadek.",
+      "onScreenText": "Nazwisko Wysocki",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 16,
+      "characters": ["Natalia Kowalska", "Aleksander Wysocki"],
+      "visualDescription": "Natalia pokazuje dokument Aleksandrowi.",
+      "narration": "Kiedy Aleksander zobaczył dokument, po raz pierwszy stracił pewność siebie.",
+      "onScreenText": "On coś wiedział",
+      "emotion": "niedowierzanie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 17,
+      "characters": ["Aleksander Wysocki"],
+      "visualDescription": "Aleksander przegląda archiwa pozostawione przez ojca.",
+      "narration": "Szukając odpowiedzi, odkrył sejf, o którego istnieniu nigdy wcześniej nie słyszał.",
+      "onScreenText": "Ukryty sejf",
+      "emotion": "niepokój",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 18,
+      "characters": ["Aleksander Wysocki", "Natalia Kowalska"],
+      "visualDescription": "W sejfie znajduje się identyczne zdjęcie, które posiada Natalia.",
+      "narration": "W środku znajdowało się identyczne zdjęcie. Ale to nie ono było najgorsze.",
+      "onScreenText": "Było tam coś jeszcze",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 19,
+      "characters": ["Aleksander Wysocki", "Natalia Kowalska"],
+      "visualDescription": "Aleksander wyciąga ukryty list podpisany przez swojego ojca.",
+      "narration": "List napisany przez jego ojca zawierał prawdę, którą ukrywano przez prawie trzydzieści lat.",
+      "onScreenText": "Tylko dla rodziny",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 20,
+      "characters": ["Aleksander Wysocki", "Natalia Kowalska"],
+      "visualDescription": "Aleksander patrzy na stare zdjęcie i na Natalię stojącą naprzeciw niego.",
+      "narration": "Przeczytał ostatni akapit, zbladł i spojrzał na Natalię. 'Jeśli to prawda... nasze życie właśnie się zmieniło.'",
+      "onScreenText": "To niemożliwe...",
+      "emotion": "szok",
+      "cliffhanger": true
+    }
+  ]
+}

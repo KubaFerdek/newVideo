@@ -1,0 +1,234 @@
+{
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "characters": [
+        "Natalia Kowalska"
+      ],
+      "visualDescription": "Natalia porządkuje rzeczy po zmarłej matce i wyciąga starą książkę z zakurzonego pudełka.",
+      "narration": "Miałam znaleźć rodzinne pamiątki. Znalazłam coś, czego nikt nie powinien był ukrywać.",
+      "onScreenText": "Dzień po pogrzebie",
+      "emotion": "smutek",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 2,
+      "characters": [
+        "Natalia Kowalska"
+      ],
+      "visualDescription": "Ze środka książki wysuwa się stare zdjęcie. Natalia zamarza, patrząc na fotografię.",
+      "narration": "To była moja mama. A obok niej stał człowiek, którego zna cała Polska.",
+      "onScreenText": "Co to za zdjęcie?",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 3,
+      "characters": [
+        "Natalia Kowalska"
+      ],
+      "visualDescription": "Natalia porównuje zdjęcie z fotografiami Marka Nowickiego w telefonie.",
+      "narration": "Nie było wątpliwości. Twarz ze zdjęcia należała do Marka Nowickiego.",
+      "onScreenText": "Marek Nowicki",
+      "emotion": "niedowierzanie",
+      "cliffhanger": false
+    },
+    {
+      "sceneNumber": 4,
+      "characters": [
+        "Natalia Kowalska"
+      ],
+      "visualDescription": "Natalia przegląda rodzinne albumy rozłożone na stole.",
+      "narration": "W setkach zdjęć nie znalazłam ani jednego śladu, który tłumaczyłby ich znajomość.",
+      "onScreenText": "Brak odpowiedzi",
+      "emotion": "frustracja",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 5,
+      "characters": [
+        "Natalia Kowalska",
+        "Anna Zielińska"
+      ],
+      "visualDescription": "Natalia pokazuje zdjęcie Annie w małej kawiarni.",
+      "narration": "Anna spojrzała na fotografię i od razu spoważniała.",
+      "onScreenText": "Dziennikarka śledcza",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 6,
+      "characters": [
+        "Natalia Kowalska",
+        "Anna Zielińska"
+      ],
+      "visualDescription": "Anna przesuwa zdjęcie bliżej siebie i analizuje każdy szczegół.",
+      "narration": "Powiedziała tylko jedno zdanie: 'To zdjęcie nie powinno istnieć.'",
+      "onScreenText": "Tajemnica",
+      "emotion": "niepokój",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 7,
+      "characters": [
+        "Natalia Kowalska",
+        "Anna Zielińska"
+      ],
+      "visualDescription": "Obie kobiety przeglądają stare gazety w archiwum.",
+      "narration": "Po kilku godzinach znalazłyśmy artykuł z tego samego roku, ale ktoś wyciął fragment zdjęcia.",
+      "onScreenText": "Archiwum prasowe",
+      "emotion": "ciekawość",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 8,
+      "characters": [
+        "Natalia Kowalska"
+      ],
+      "visualDescription": "Natalia wraca do domu i znajduje otwartą szufladę, którą wcześniej zamknęła.",
+      "narration": "Ktoś był tutaj pod moją nieobecność.",
+      "onScreenText": "Kto mnie obserwuje?",
+      "emotion": "strach",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 9,
+      "characters": [
+        "Natalia Kowalska"
+      ],
+      "visualDescription": "Na stole leży anonimowa kartka z krótką wiadomością.",
+      "narration": "Trzy słowa wystarczyły, by odebrać mi spokój: 'Przestań szukać prawdy.'",
+      "onScreenText": "Anonimowa wiadomość",
+      "emotion": "zagrożenie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 10,
+      "characters": [
+        "Natalia Kowalska",
+        "Anna Zielińska"
+      ],
+      "visualDescription": "Anna pokazuje Natalii stary dokument znaleziony w archiwum.",
+      "narration": "Nazwisko mojej matki pojawiało się obok nazwiska Marka częściej, niż powinno.",
+      "onScreenText": "Ukryte powiązania",
+      "emotion": "zaskoczenie",
+      "cliffhanger": false
+    },
+    {
+      "sceneNumber": 11,
+      "characters": [
+        "Natalia Kowalska"
+      ],
+      "visualDescription": "Natalia ogląda w telewizji wywiad z Markiem Nowickim.",
+      "narration": "Gdy wspomniano o wydarzeniu sprzed trzydziestu lat, jego uśmiech nagle zniknął.",
+      "onScreenText": "Nerwowa reakcja",
+      "emotion": "podejrzenie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 12,
+      "characters": [
+        "Natalia Kowalska",
+        "Marek Nowicki"
+      ],
+      "visualDescription": "Natalia czeka przed biurowcem Marka i pokazuje mu zdjęcie.",
+      "narration": "Spojrzał na fotografię. Przez sekundę wyglądał, jakby zobaczył ducha przeszłości.",
+      "onScreenText": "Pierwsze spotkanie",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 13,
+      "characters": [
+        "Natalia Kowalska",
+        "Marek Nowicki"
+      ],
+      "visualDescription": "Marek oddaje zdjęcie i próbuje odejść.",
+      "narration": "Powiedział, że nie zna tej kobiety. Jego drżące dłonie mówiły coś zupełnie innego.",
+      "onScreenText": "Kłamstwo?",
+      "emotion": "nieufność",
+      "cliffhanger": false
+    },
+    {
+      "sceneNumber": 14,
+      "characters": [
+        "Natalia Kowalska",
+        "Anna Zielińska"
+      ],
+      "visualDescription": "Anna odbiera telefon i natychmiast wychodzi z pokoju.",
+      "narration": "Ktoś zaoferował jej pieniądze za zakończenie śledztwa.",
+      "onScreenText": "Ktoś chce to ukryć",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 15,
+      "characters": [
+        "Natalia Kowalska"
+      ],
+      "visualDescription": "Natalia przeszukuje strych rodzinnego domu późnym wieczorem.",
+      "narration": "Za drewnianą belką znalazłam metalowe pudełko, którego wcześniej tam nie było.",
+      "onScreenText": "Nowy trop",
+      "emotion": "nadzieja",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 16,
+      "characters": [
+        "Natalia Kowalska"
+      ],
+      "visualDescription": "W pudełku leży koperta z odręcznym podpisem matki.",
+      "narration": "Na kopercie widniało tylko jedno zdanie: 'Otwórz, gdy będę już daleko.'",
+      "onScreenText": "List od mamy",
+      "emotion": "wzruszenie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 17,
+      "characters": [
+        "Natalia Kowalska"
+      ],
+      "visualDescription": "Natalia czyta pierwsze linijki listu ze łzami w oczach.",
+      "narration": "Mama pisała, że całe życie chroniła pewien sekret.",
+      "onScreenText": "Sekret życia",
+      "emotion": "emocje",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 18,
+      "characters": [
+        "Natalia Kowalska",
+        "Anna Zielińska"
+      ],
+      "visualDescription": "Anna analizuje list i nagle wskazuje jedno nazwisko.",
+      "narration": "W środku pojawiła się informacja, której żadna z nas się nie spodziewała.",
+      "onScreenText": "Nowe odkrycie",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 19,
+      "characters": [
+        "Natalia Kowalska",
+        "Marek Nowicki"
+      ],
+      "visualDescription": "Natalia konfrontuje Marka w pustym parkingu podziemnym.",
+      "narration": "Tym razem nie próbował uciekać przed pytaniami.",
+      "onScreenText": "Czas na prawdę",
+      "emotion": "determinacja",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 20,
+      "characters": [
+        "Natalia Kowalska",
+        "Marek Nowicki"
+      ],
+      "visualDescription": "Marek opuszcza wzrok i zaczyna mówić, podczas gdy Natalia nieruchomieje.",
+      "narration": "W końcu wyznał, kim była dla niego moja matka. Następne zdanie zmieniło wszystko.",
+      "onScreenText": "To niemożliwe...",
+      "emotion": "osłupienie",
+      "cliffhanger": true
+    }
+  ]
+}

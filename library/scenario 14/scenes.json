@@ -1,0 +1,184 @@
+{
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "characters": ["Anna Kowalska"],
+      "visualDescription": "Anna odbiera niewielką paczkę od kuriera przed drzwiami swojego mieszkania.",
+      "narration": "Minęło dziesięć lat od śmierci mojego męża. Myślałam, że nic już mnie z nim nie połączy.",
+      "onScreenText": "Kraków",
+      "emotion": "spokój",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 2,
+      "characters": ["Anna Kowalska"],
+      "visualDescription": "Zbliżenie na etykietę nadawcy. Anna zamiera, patrząc na znajome nazwisko.",
+      "narration": "Ale wtedy zobaczyłam coś, co nie miało prawa istnieć.",
+      "onScreenText": "Nadawca: Piotr Kowalski",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 3,
+      "characters": ["Anna Kowalska"],
+      "visualDescription": "Drżącymi rękami otwiera paczkę przy kuchennym stole.",
+      "narration": "W środku był list napisany jego charakterem pisma.",
+      "onScreenText": "10 lat po jego śmierci",
+      "emotion": "niedowierzanie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 4,
+      "characters": ["Anna Kowalska"],
+      "visualDescription": "Anna czyta pierwsze zdania listu, a łzy napływają jej do oczu.",
+      "narration": "Jeśli to czytasz, oznacza to, że wszystko potoczyło się tak, jak się obawiałem.",
+      "onScreenText": "List od Piotra",
+      "emotion": "wzruszenie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 5,
+      "characters": ["Anna Kowalska"],
+      "visualDescription": "Z koperty wypada stary klucz i pożółkła fotografia.",
+      "narration": "To zdjęcie nie pasowało do żadnego wspomnienia, które miałam.",
+      "onScreenText": "Co ukrywał?",
+      "emotion": "ciekawość",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 6,
+      "characters": ["Anna Kowalska"],
+      "visualDescription": "Anna przygląda się fotografii przedstawiającej Piotra z nieznanym mężczyzną.",
+      "narration": "Obok Piotra stał człowiek, którego obecności nie potrafiłam wyjaśnić.",
+      "onScreenText": "Nieznajomy",
+      "emotion": "niepokój",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 7,
+      "characters": ["Anna Kowalska", "Marek Nowicki"],
+      "visualDescription": "Anna odnajduje nazwisko na odwrocie zdjęcia i spotyka Marka w małej kawiarni.",
+      "narration": "Gdy zobaczył fotografię, natychmiast zbladł.",
+      "onScreenText": "Marek Nowicki",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 8,
+      "characters": ["Anna Kowalska", "Marek Nowicki"],
+      "visualDescription": "Marek odwraca wzrok i ściska filiżankę kawy.",
+      "narration": "Powiedział tylko jedno zdanie. Nie powinnaś była tego dostać.",
+      "onScreenText": "Za późno",
+      "emotion": "strach",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 9,
+      "characters": ["Anna Kowalska"],
+      "visualDescription": "Anna wraca do domu i ponownie czyta list.",
+      "narration": "Na końcu listu znajdował się numer skrytki, której znaczenia nie rozumiałam.",
+      "onScreenText": "Skrytka 214",
+      "emotion": "determinacja",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 10,
+      "characters": ["Anna Kowalska"],
+      "visualDescription": "Anna otwiera starą skrytkę w magazynie depozytowym.",
+      "narration": "Była tam tylko jedna kaseta i krótka notatka.",
+      "onScreenText": "Otwórz dopiero teraz",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 11,
+      "characters": ["Anna Kowalska", "Piotr Kowalski"],
+      "visualDescription": "Anna odtwarza nagranie na starym odtwarzaczu.",
+      "narration": "Po dziesięciu latach ciszy ponownie usłyszałam jego głos.",
+      "onScreenText": "Nagranie",
+      "emotion": "wzruszenie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 12,
+      "characters": ["Anna Kowalska", "Piotr Kowalski"],
+      "visualDescription": "Anna słucha nagrania w całkowitej ciszy.",
+      "narration": "Piotr powiedział, że ktoś przez lata pilnował, by prawda nie wyszła na jaw.",
+      "onScreenText": "Ktoś wiedział",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 13,
+      "characters": ["Anna Kowalska"],
+      "visualDescription": "Anna przegląda stare dokumenty ukryte w pudełku po zdjęciach.",
+      "narration": "Wśród papierów znalazłam akt własności nieznanego mieszkania.",
+      "onScreenText": "Tajemnica",
+      "emotion": "zdezorientowanie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 14,
+      "characters": ["Anna Kowalska"],
+      "visualDescription": "Anna stoi przed starym budynkiem na obrzeżach miasta.",
+      "narration": "Adres zaprowadził mnie na obrzeża miasta, gdzie wszystko wydawało się obce.",
+      "onScreenText": "Poza miastem",
+      "emotion": "niepewność",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 15,
+      "characters": ["Anna Kowalska"],
+      "visualDescription": "Otwiera drzwi mieszkania i rozgląda się po pustym wnętrzu.",
+      "narration": "Na ścianie wisiało tylko jedno zdjęcie.",
+      "onScreenText": "Dlaczego?",
+      "emotion": "niepokój",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 16,
+      "characters": ["Anna Kowalska"],
+      "visualDescription": "Anna przygląda się fotografii przedstawiającej ją samą sprzed wielu lat.",
+      "narration": "Zdjęcie powstało na długo przed tym, zanim nasze drogi się przecięły.",
+      "onScreenText": "Przed naszym poznaniem",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 17,
+      "characters": ["Anna Kowalska", "Marek Nowicki"],
+      "visualDescription": "Anna konfrontuje Marka na parkingu.",
+      "narration": "Tym razem nie próbował już niczego ukrywać.",
+      "onScreenText": "Powiedz prawdę",
+      "emotion": "gniew",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 18,
+      "characters": ["Anna Kowalska", "Marek Nowicki"],
+      "visualDescription": "Marek spuszcza głowę i zaczyna mówić.",
+      "narration": "Twój mąż szukał cię przez wiele lat, zanim odważył się podejść.",
+      "onScreenText": "To nie był przypadek",
+      "emotion": "zaskoczenie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 19,
+      "characters": ["Anna Kowalska"],
+      "visualDescription": "Anna znajduje ostatnią ukrytą kopertę w mieszkaniu.",
+      "narration": "Był tam jeszcze jeden list. Wyglądał tak, jakby miał pozostać ukryty na zawsze.",
+      "onScreenText": "Ostatnia wiadomość",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 20,
+      "characters": ["Anna Kowalska", "Piotr Kowalski"],
+      "visualDescription": "Anna czyta ostatnie zdanie listu i gwałtownie podnosi wzrok.",
+      "narration": "Jeśli dotarłaś aż tutaj, oznacza to, że odkryłaś tylko połowę prawdy. Nasza córka wciąż żyje.",
+      "onScreenText": "Ciąg dalszy nastąpi...",
+      "emotion": "szok",
+      "cliffhanger": true
+    }
+  ]
+}

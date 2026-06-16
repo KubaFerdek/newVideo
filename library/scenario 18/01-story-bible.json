@@ -1,0 +1,34 @@
+{
+  "title": "Zdjęcie Między Stronami",
+  "genre": "Family Mystery",
+  "setting": "Współczesna Polska. Historia rozgrywa się głównie w Warszawie oraz niewielkim miasteczku na Mazowszu. Akcja prowadzi przez rodzinny dom, archiwa prasowe, redakcje mediów i luksusowe biura znanego przedsiębiorcy.",
+  "mainConflict": "Po śmierci matki Natalia znajduje ukryte w starej książce zdjęcie przedstawiające młodą kobietę łudząco podobną do jej matki stojącą obok jednego z najbardziej rozpoznawalnych ludzi w Polsce. Gdy próbuje odkryć prawdę, natrafia na osoby, które zrobią wszystko, by tajemnica nigdy nie wyszła na jaw.",
+  "centralMystery": "Kim naprawdę był człowiek ze zdjęcia dla matki Natalii i dlaczego przez ponad trzydzieści lat nikt nigdy nie wspomniał o ich relacji?",
+  "emotionalHook": "Jedno przypadkowo znalezione zdjęcie sprawia, że Natalia zaczyna wątpić we wszystko, co wiedziała o własnej rodzinie. Każda odpowiedź prowadzi do kolejnych pytań, a prawda może zniszczyć wspomnienie ukochanej matki.",
+  "characters": [
+    {
+      "id": "natalia-kowalska",
+      "name": "Natalia Kowalska",
+      "age": 32,
+      "role": "Główna bohaterka, córka zmarłej kobiety ze zdjęcia",
+      "personality": "Dociekliwa, empatyczna, uparta, emocjonalna, odważna mimo lęku przed prawdą",
+      "visualIdentity": "Polka, 32 lata, długie kasztanowe włosy, zielone oczy, naturalny makijaż, elegancki casual, wyrazista mimika, inteligentne spojrzenie"
+    },
+    {
+      "id": "marek-nowicki",
+      "name": "Marek Nowicki",
+      "age": 58,
+      "role": "Znany w całej Polsce przedsiębiorca i osobowość medialna widoczna na tajemniczym zdjęciu",
+      "personality": "Charyzmatyczny, opanowany, inteligentny, wpływowy, skrywający sekrety",
+      "visualIdentity": "Polski biznesmen, 58 lat, siwiejące włosy, nienaganny garnitur, pewna postawa, medialny uśmiech, elegancki wygląd"
+    },
+    {
+      "id": "anna-zielinska",
+      "name": "Anna Zielińska",
+      "age": 45,
+      "role": "Dziennikarka śledcza pomagająca Natalii odkrywać przeszłość",
+      "personality": "Przenikliwa, odważna, sceptyczna, lojalna, zdeterminowana",
+      "visualIdentity": "Kobieta 45 lat, krótkie ciemne włosy, okulary, skórzana kurtka lub elegancki płaszcz, notatnik zawsze przy sobie, czujne spojrzenie"
+    }
+  ]
+}

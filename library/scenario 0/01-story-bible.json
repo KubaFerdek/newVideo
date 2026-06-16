@@ -1,0 +1,34 @@
+{
+  "title": "Dziedzictwo Milczenia",
+  "genre": "Romantic Drama",
+  "setting": "Współczesna Warszawa. Luksusowy świat biznesu zderza się z codziennością małej rodzinnej restauracji na obrzeżach miasta.",
+  "mainConflict": "Uboga kelnerka odkrywa dokument wskazujący, że jej zmarła matka miała tajemniczy związek z jednym z najpotężniejszych przedsiębiorców w kraju. Im bardziej próbuje poznać prawdę, tym bardziej zbliża się do charyzmatycznego CEO, który może zniszczyć jej życie lub całkowicie je odmienić.",
+  "centralMystery": "Dlaczego matka Natalii przez całe życie ukrywała zdjęcie z ojcem Aleksandra Wysockiego i co naprawdę wydarzyło się trzydzieści lat wcześniej? Czy Natalia jest przypadkowo związana z rodziną Wysockich, czy skrywa się za tym znacznie większa tajemnica?",
+  "emotionalHook": "Kiedy Natalia znajduje stare zdjęcie swojej matki w sejfie należącym do rodziny najbogatszego biznesmena w kraju, CEO patrzy na fotografię i wypowiada jedno zdanie: 'To niemożliwe... przecież ty nie powinnaś istnieć.'",
+  "characters": [
+    {
+      "id": "char_001",
+      "name": "Natalia Kowalska",
+      "age": 28,
+      "role": "Kelnerka i główna bohaterka",
+      "personality": "Pracowita, empatyczna, uparta, lojalna wobec bliskich, nie boi się walczyć o prawdę mimo przeciwności.",
+      "visualIdentity": "Długie kasztanowe włosy, naturalna uroda, skromne ubrania, delikatny srebrny naszyjnik po matce."
+    },
+    {
+      "id": "char_002",
+      "name": "Aleksander Wysocki",
+      "age": 38,
+      "role": "Wpływowy CEO międzynarodowej firmy",
+      "personality": "Opanowany, inteligentny, ambitny, zdystansowany emocjonalnie, ale skrywający wrażliwą stronę.",
+      "visualIdentity": "Eleganckie garnitury, ciemne włosy, przenikliwe spojrzenie, nienaganna prezencja."
+    },
+    {
+      "id": "char_003",
+      "name": "Ewa Malinowska",
+      "age": 62,
+      "role": "Była sekretarka ojca Aleksandra i strażniczka rodzinnych sekretów",
+      "personality": "Tajemnicza, ostrożna, inteligentna, opiekuńcza, rozdarta między lojalnością a poczuciem winy.",
+      "visualIdentity": "Siwe włosy upięte w kok, klasyczne płaszcze, eleganckie okulary, zawsze nosi starą skórzaną teczkę."
+    }
+  ]
+}
