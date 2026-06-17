@@ -1,0 +1,124 @@
+{
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "characters": [
+        "Joanna Kowalska",
+        "Elżbieta Kowalska"
+      ],
+      "visualDescription": "Joanna zatrzymuje się za uchylonymi drzwiami podczas wesela i słyszy rozmowę Elżbiety z nieznaną osobą.",
+      "narration": "Jedno zdanie zatrzymało mi serce. „Ona wciąż nie wie, kim naprawdę jest”.",
+      "onScreenText": "Podczas wesela...",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 2,
+      "characters": [
+        "Joanna Kowalska",
+        "Elżbieta Kowalska"
+      ],
+      "visualDescription": "Joanna podchodzi do Elżbiety przy stole weselnym i żąda wyjaśnień.",
+      "narration": "Mama pobladła, gdy powtórzyłam usłyszane słowa. Zamiast odpowiedzi kazała mi zapomnieć o całej rozmowie.",
+      "onScreenText": "„Nie zadawaj pytań.”",
+      "emotion": "niepokój",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 3,
+      "characters": [
+        "Joanna Kowalska",
+        "Marek Nowak"
+      ],
+      "visualDescription": "Marek dyskretnie wręcza Joannie stary klucz ukryty w dłoni.",
+      "narration": "Marek spojrzał mi prosto w oczy. Powiedział tylko, że prawda od lat czeka zamknięta.",
+      "onScreenText": "Stary klucz",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 4,
+      "characters": [
+        "Joanna Kowalska"
+      ],
+      "visualDescription": "Joanna otwiera zamkniętą szufladę w rodzinnym domu i znajduje kopertę ze swoim imieniem.",
+      "narration": "W środku był dokument, którego nigdy wcześniej nie widziałam. Nazwisko matki było inne niż moje.",
+      "onScreenText": "Akt urodzenia?",
+      "emotion": "niedowierzanie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 5,
+      "characters": [
+        "Joanna Kowalska",
+        "Elżbieta Kowalska"
+      ],
+      "visualDescription": "Joanna pokazuje dokument Elżbiecie, która próbuje go wyrwać.",
+      "narration": "Po raz pierwszy zobaczyłam w jej oczach strach. Taki, którego nie da się udawać.",
+      "onScreenText": "„Oddaj to.”",
+      "emotion": "konflikt",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 6,
+      "characters": [
+        "Joanna Kowalska",
+        "Elżbieta Kowalska"
+      ],
+      "visualDescription": "Elżbieta siedzi przy stole ze łzami w oczach.",
+      "narration": "Przyznała, że nie urodziła mnie. Ale to był dopiero początek całej historii.",
+      "onScreenText": "Pierwsze wyznanie",
+      "emotion": "ból",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 7,
+      "characters": [
+        "Joanna Kowalska",
+        "Marek Nowak"
+      ],
+      "visualDescription": "Marek wręcza Joannie stare zdjęcie młodej kobiety trzymającej niemowlę.",
+      "narration": "Marek powiedział, że kobieta na zdjęciu to moja prawdziwa matka. A potem dodał coś jeszcze.",
+      "onScreenText": "Tajemnicze zdjęcie",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 8,
+      "characters": [
+        "Joanna Kowalska",
+        "Marek Nowak"
+      ],
+      "visualDescription": "Joanna patrzy na odwrotną stronę zdjęcia z odręcznym dopiskiem.",
+      "narration": "Na odwrocie widniała data i jedno zdanie. „Jeśli coś mi się stanie, znajdź Marka”.",
+      "onScreenText": "Ukryta wiadomość",
+      "emotion": "ciekawość",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 9,
+      "characters": [
+        "Joanna Kowalska",
+        "Marek Nowak"
+      ],
+      "visualDescription": "Marek długo milczy, po czym decyduje się powiedzieć prawdę.",
+      "narration": "W końcu wyznał, że tamtej nocy ktoś zapłacił za zniknięcie mojej matki. Znał nazwisko tej osoby.",
+      "onScreenText": "Ktoś ukrył prawdę",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 10,
+      "characters": [
+        "Joanna Kowalska",
+        "Marek Nowak",
+        "Elżbieta Kowalska"
+      ],
+      "visualDescription": "Joanna zamiera, gdy Marek wskazuje zdjęcie stojące na półce obok Elżbiety.",
+      "narration": "Osobą, która zapłaciła za zniknięcie twojej matki, był twój własny ojciec. A on wciąż żyje.",
+      "onScreenText": "Ciąg dalszy nastąpi...",
+      "emotion": "osłupienie",
+      "cliffhanger": true
+    }
+  ]
+}

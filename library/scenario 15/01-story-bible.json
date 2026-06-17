@@ -1,0 +1,34 @@
+{
+  "title": "Sekret Przy Ołtarzu",
+  "genre": "Family Drama",
+  "setting": "Współczesna Polska. Akcja rozgrywa się podczas luksusowego wesela pod Warszawą oraz w kolejnych dniach między rodzinnym domem, kancelarią notarialną i małym miasteczkiem, gdzie wiele lat wcześniej wydarzyło się coś, o czym nikt nie chce rozmawiać.",
+  "mainConflict": "Podczas wesela swojej kuzynki Joanna przypadkowo słyszy rozmowę, z której wynika, że kobieta, którą całe życie uważała za matkę, może nią nie być. Gdy zaczyna zadawać pytania, rodzina robi wszystko, aby powstrzymać ją przed odkryciem prawdy.",
+  "centralMystery": "Kim są prawdziwi rodzice Joanny i dlaczego cała rodzina przez ponad trzydzieści lat ukrywała przed nią prawdę o jej pochodzeniu?",
+  "emotionalHook": "W dniu, który miał być rodzinnym świętem, Joanna dowiaduje się, że jej życie mogło być oparte na kłamstwie. Każda odpowiedź prowadzi do kolejnych sekretów, a największe z nich może zniszczyć całą rodzinę.",
+  "characters": [
+    {
+      "id": "joanna_kowalska",
+      "name": "Joanna Kowalska",
+      "age": 34,
+      "role": "Główna bohaterka",
+      "personality": "Empatyczna, odpowiedzialna, rodzinna, uparta, nie potrafi odpuścić, gdy czuje że ktoś ją okłamuje.",
+      "visualIdentity": "34-letnia Polka, długie ciemnoblond włosy, zielone oczy, elegancka granatowa sukienka weselna, naturalny makijaż, subtelna biżuteria, wyrazista mimika pełna emocji."
+    },
+    {
+      "id": "elzbieta_kowalska",
+      "name": "Elżbieta Kowalska",
+      "age": 58,
+      "role": "Kobieta, która wychowała Joannę",
+      "personality": "Opanowana, troskliwa, stanowcza, skryta, gotowa poświęcić wszystko dla ochrony rodzinnych tajemnic.",
+      "visualIdentity": "58-letnia Polka, krótkie kasztanowe włosy z siwizną, elegancki kostium w jasnych kolorach, spokojne spojrzenie, dostojna postura, twarz zdradzająca ukrywany niepokój."
+    },
+    {
+      "id": "marek_nowak",
+      "name": "Marek Nowak",
+      "age": 61,
+      "role": "Dawny przyjaciel rodziny posiadający klucz do prawdy",
+      "personality": "Cichy, inteligentny, ostrożny, lojalny wobec rodziny, ale zmęczony wieloletnim ukrywaniem sekretu.",
+      "visualIdentity": "61-letni Polak, siwiejące włosy, schludna koszula i marynarka, poważne spojrzenie, charakterystyczna blizna przy prawym łuku brwiowym, emanuje tajemniczością."
+    }
+  ]
+}

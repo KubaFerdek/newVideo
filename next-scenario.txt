@@ -185,6 +185,8 @@ Ja bym zaczął od 1, 2, 14, 15, 18 i 19.
 
 wygenerowane
 0
+2
 14
+15
 18
 20
