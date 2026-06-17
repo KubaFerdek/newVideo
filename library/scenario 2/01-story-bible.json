@@ -1,0 +1,34 @@
+{
+  "title": "Druga Twarz Prawdy",
+  "genre": "Family Drama",
+  "setting": "Współczesna Polska. Historia rozgrywa się między Warszawą, rodzinnym domem zmarłej matki oraz niewielkim miasteczkiem, w którym wiele lat temu doszło do wydarzenia skrywanego przez całą rodzinę.",
+  "mainConflict": "Po śmierci matki Aleksandra odkrywa, że przez całe życie ukrywano przed nią istnienie siostry bliźniaczki. Próbując odnaleźć prawdę, zaczyna odkrywać kolejne rodzinne sekrety, które mogą zniszczyć wszystko, co uważała za swoją przeszłość.",
+  "centralMystery": "Dlaczego matka przez ponad trzydzieści lat ukrywała istnienie jednej z córek i co naprawdę wydarzyło się tuż po ich narodzinach?",
+  "emotionalHook": "Podczas pogrzebu nieznajoma kobieta podchodzi do Aleksandry, wręcza jej stare zdjęcie dwóch identycznych dziewczynek i szepcze: 'Twoja siostra też przyszła pożegnać mamę.' Problem w tym, że Aleksandra przez całe życie była przekonana, że jest jedynaczką.",
+  "characters": [
+    {
+      "id": "aleksandra_nowak",
+      "name": "Aleksandra Nowak",
+      "age": 34,
+      "role": "Główna bohaterka",
+      "personality": "Empatyczna, odpowiedzialna, uparta, emocjonalna, nie potrafi odpuścić, gdy czuje, że ktoś ją okłamał.",
+      "visualIdentity": "34-letnia Polka, długie ciemnobrązowe włosy, zielone oczy, elegancki lecz skromny styl ubioru, subtelny makijaż, wyrazista i emocjonalna mimika."
+    },
+    {
+      "id": "karolina_wisniewska",
+      "name": "Karolina Wiśniewska",
+      "age": 34,
+      "role": "Tajemnicza siostra bliźniaczka",
+      "personality": "Zdystansowana, inteligentna, ostrożna, nieufna wobec ludzi, skrywa własne sekrety i nie mówi całej prawdy.",
+      "visualIdentity": "34-letnia Polka, identyczne rysy twarzy jak Aleksandra, ciemnobrązowe włosy do ramion, zielone oczy, bardziej surowy styl ubioru, chłodne spojrzenie."
+    },
+    {
+      "id": "marek_nowak",
+      "name": "Marek Nowak",
+      "age": 62,
+      "role": "Ojciec Aleksandry",
+      "personality": "Milczący, opanowany, zamknięty w sobie, lojalny wobec zmarłej żony, od lat nosi ciężar pewnej decyzji.",
+      "visualIdentity": "62-letni mężczyzna, siwiejące włosy, zmęczona twarz, klasyczny ciemny płaszcz, poważny wyraz twarzy, spojrzenie pełne poczucia winy."
+    }
+  ]
+}

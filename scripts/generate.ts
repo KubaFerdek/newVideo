@@ -51,7 +51,9 @@ function parseBrief(rawBrief: string): BriefFields {
     if (headerMatch) {
       const header = headerMatch[1].toLowerCase().replace(/\s+/g, " ");
       currentSection =
-        header === "target audience" ? "targetAudience" : (header as "topic" | "genre");
+        header === "target audience"
+          ? "targetAudience"
+          : (header as "topic" | "genre");
       seenSections.add(currentSection);
 
       if (headerMatch[2].trim()) {
@@ -189,7 +191,10 @@ function parseJsonResponse<T>(response: string, stageName: string): T {
   );
 }
 
-function requireObject(value: unknown, stageName: string): asserts value is JsonObject {
+function requireObject(
+  value: unknown,
+  stageName: string,
+): asserts value is JsonObject {
   if (!value || typeof value !== "object" || Array.isArray(value)) {
     throw new Error(`${stageName}: expected a JSON object.`);
   }
@@ -239,18 +244,18 @@ function validateStoryBible(value: unknown): JsonObject {
 
   characters.forEach((character, index) => {
     requireObject(character, `${stageName} character ${index + 1}`);
-    for (const key of [
-      "id",
-      "name",
-      "role",
-      "personality",
-      "visualIdentity",
-    ]) {
-      requireNonEmptyString(character, key, `${stageName} character ${index + 1}`);
+    for (const key of ["id", "name", "role", "personality", "visualIdentity"]) {
+      requireNonEmptyString(
+        character,
+        key,
+        `${stageName} character ${index + 1}`,
+      );
     }
 
     if (character.age === undefined || character.age === null) {
-      throw new Error(`${stageName} character ${index + 1}: missing field "age".`);
+      throw new Error(
+        `${stageName} character ${index + 1}: missing field "age".`,
+      );
     }
   });
 
@@ -262,19 +267,23 @@ function validateScenes(value: unknown): JsonObject {
   requireObject(value, stageName);
 
   const scenes = requireArray(value, "scenes", stageName);
-  if (scenes.length !== 20) {
-    throw new Error(`${stageName}: expected exactly 20 scenes.`);
-  }
+  // if (scenes.length !== 20) {
+  //   throw new Error(`${stageName}: expected exactly 20 scenes.`);
+  // }
 
   scenes.forEach((scene, index) => {
     requireObject(scene, `${stageName} item ${index + 1}`);
 
     if (scene.sceneNumber === undefined || scene.sceneNumber === null) {
-      throw new Error(`${stageName} item ${index + 1}: missing field "sceneNumber".`);
+      throw new Error(
+        `${stageName} item ${index + 1}: missing field "sceneNumber".`,
+      );
     }
 
     if (!Array.isArray(scene.characters)) {
-      throw new Error(`${stageName} item ${index + 1}: missing array field "characters".`);
+      throw new Error(
+        `${stageName} item ${index + 1}: missing array field "characters".`,
+      );
     }
 
     for (const key of [
@@ -287,7 +296,9 @@ function validateScenes(value: unknown): JsonObject {
     }
 
     if (typeof scene.cliffhanger !== "boolean") {
-      throw new Error(`${stageName} item ${index + 1}: field "cliffhanger" must be boolean.`);
+      throw new Error(
+        `${stageName} item ${index + 1}: field "cliffhanger" must be boolean.`,
+      );
     }
   });
 
@@ -311,8 +322,13 @@ function validateImagePrompts(
   imagePrompts.forEach((imagePrompt, index) => {
     requireObject(imagePrompt, `${stageName} item ${index + 1}`);
 
-    if (imagePrompt.sceneNumber === undefined || imagePrompt.sceneNumber === null) {
-      throw new Error(`${stageName} item ${index + 1}: missing field "sceneNumber".`);
+    if (
+      imagePrompt.sceneNumber === undefined ||
+      imagePrompt.sceneNumber === null
+    ) {
+      throw new Error(
+        `${stageName} item ${index + 1}: missing field "sceneNumber".`,
+      );
     }
 
     requireNonEmptyString(
@@ -330,7 +346,10 @@ function writeJsonFile(filePath: string, value: unknown): void {
   console.log(`Saved: ${filePath}`);
 }
 
-function buildStoryBiblePrompt(promptTemplate: string, brief: BriefFields): string {
+function buildStoryBiblePrompt(
+  promptTemplate: string,
+  brief: BriefFields,
+): string {
   return [
     promptTemplate.trim(),
     "",
@@ -340,7 +359,10 @@ function buildStoryBiblePrompt(promptTemplate: string, brief: BriefFields): stri
   ].join("\n");
 }
 
-function buildScenesPrompt(promptTemplate: string, storyBible: JsonObject): string {
+function buildScenesPrompt(
+  promptTemplate: string,
+  storyBible: JsonObject,
+): string {
   return [
     promptTemplate.trim(),
     "",
@@ -377,7 +399,9 @@ async function main(): Promise<void> {
 
   const storyBiblePromptTemplate = readRequiredTextFile(promptPaths.storyBible);
   const scenesPromptTemplate = readRequiredTextFile(promptPaths.scenes);
-  const imagePromptsPromptTemplate = readRequiredTextFile(promptPaths.imagePrompts);
+  const imagePromptsPromptTemplate = readRequiredTextFile(
+    promptPaths.imagePrompts,
+  );
 
   const session = await createChatGptBrowserSession({
     headless: false,

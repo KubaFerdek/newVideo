@@ -1,0 +1,44 @@
+{
+  "imagePrompts": [
+    {
+      "sceneNumber": 1,
+      "imagePrompt": "Aleksandra Nowak, 34-year-old Polish woman, long dark brown hair, green eyes, elegant black funeral coat, standing beside an open grave during a rainy cemetery funeral, shocked expression as an unseen woman presses an old photograph into her hand, photograph showing two identical little girls, dramatic cinematic funeral atmosphere, emotional realism, shallow depth of field, realistic photography, ultra detailed facial expression, social-media-ready composition, cinematic lighting, vertical 9:16"
+    },
+    {
+      "sceneNumber": 2,
+      "imagePrompt": "Aleksandra Nowak showing an old photograph to Marek Nowak, 62-year-old man with gray hair and guilty eyes, Marek suddenly reaching toward the photo with alarm and panic, cemetery background blurred, intense emotional confrontation, realistic photography, cinematic contrast lighting, ultra detailed faces, dramatic tension, social-media-ready composition, vertical 9:16"
+    },
+    {
+      "sceneNumber": 3,
+      "imagePrompt": "Aleksandra Nowak and Karolina Wisniewska facing each other across a cemetery pathway, identical facial features, same green eyes, dark brown hair, Aleksandra in elegant funeral clothing, Karolina in a darker more severe outfit, both frozen in disbelief, emotional eye contact, cinematic depth of field, realistic photography, ultra detailed, dramatic lighting, social-media-ready composition, vertical 9:16"
+    },
+    {
+      "sceneNumber": 4,
+      "imagePrompt": "Aleksandra Nowak urgently stepping forward while Karolina Wisniewska cautiously steps backward, maintaining distance, identical faces highlighted by cinematic lighting, tense emotional body language, cemetery surroundings blurred, realistic photography, ultra detailed facial expressions, dramatic suspense atmosphere, social-media-ready composition, vertical 9:16"
+    },
+    {
+      "sceneNumber": 5,
+      "imagePrompt": "Inside a modest family home, Aleksandra Nowak confronting Marek Nowak across a table, Aleksandra visibly angry and demanding answers, Marek sitting with head lowered and guilt written across his face, moody interior lighting, realistic photography, cinematic family drama atmosphere, ultra detailed expressions, social-media-ready composition, vertical 9:16"
+    },
+    {
+      "sceneNumber": 6,
+      "imagePrompt": "Marek Nowak opening an old wooden drawer and handing a yellowed envelope to Aleksandra Nowak with trembling hands, emotional tension visible on both faces, warm low-key cinematic lighting, realistic photography, ultra detailed hands and facial expressions, dramatic storytelling composition, social-media-ready composition, vertical 9:16"
+    },
+    {
+      "sceneNumber": 7,
+      "imagePrompt": "Extreme close-up of Aleksandra Nowak reading an old handwritten letter, green eyes wide with fear and disbelief, tears forming, focus on emotional reaction rather than readable text, cinematic lighting illuminating her face, realistic photography, ultra detailed facial expression, emotional climax, social-media-ready composition, vertical 9:16"
+    },
+    {
+      "sceneNumber": 8,
+      "imagePrompt": "Aleksandra Nowak and Karolina Wisniewska sitting opposite each other at a kitchen table, identical faces but contrasting personalities, cold emotional distance between them, tense silence, muted kitchen background, realistic photography, cinematic dramatic lighting, ultra detailed facial expressions, social-media-ready composition, vertical 9:16"
+    },
+    {
+      "sceneNumber": 9,
+      "imagePrompt": "Karolina Wisniewska holding an old official document from a worn folder while Aleksandra Nowak stares at it anxiously, both women illuminated by focused cinematic lighting, document visible but text unreadable, emotional suspense, realistic photography, ultra detailed, social-media-ready composition, vertical 9:16"
+    },
+    {
+      "sceneNumber": 10,
+      "imagePrompt": "Extreme close-up of Aleksandra Nowak frozen in shock while staring at an old birth certificate held in front of her, reflection of the document visible in her green eyes, Karolina Wisniewska blurred in the background, devastating revelation atmosphere, dramatic cinematic lighting, realistic photography, ultra detailed emotional expression, social-media-ready composition, vertical 9:16"
+    }
+  ]
+}

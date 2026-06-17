@@ -1,0 +1,122 @@
+{
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "characters": [
+        "Aleksandra Nowak"
+      ],
+      "visualDescription": "Na cmentarzu nieznajoma kobieta wciska Aleksandrze stare zdjęcie dwóch identycznych dziewczynek podczas opuszczania trumny.",
+      "narration": "Pogrzeb mojej matki zamienił się w koszmar. Na zdjęciu były dwie dziewczynki wyglądające dokładnie jak ja.",
+      "onScreenText": "„Twoja siostra też przyszła pożegnać mamę.”",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 2,
+      "characters": [
+        "Aleksandra Nowak",
+        "Marek Nowak"
+      ],
+      "visualDescription": "Aleksandra pokazuje zdjęcie ojcu. Marek natychmiast blednie i próbuje je wyrwać.",
+      "narration": "Twarz ojca powiedziała mi więcej niż tysiąc słów.",
+      "onScreenText": "„Skąd to masz?”",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 3,
+      "characters": [
+        "Aleksandra Nowak",
+        "Karolina Wiśniewska"
+      ],
+      "visualDescription": "Po drugiej stronie cmentarza stoi kobieta o identycznej twarzy. Przez chwilę patrzą sobie w oczy.",
+      "narration": "Wtedy ją zobaczyłam. Wyglądała jak moje odbicie w lustrze.",
+      "onScreenText": "Ta sama twarz. Te same oczy.",
+      "emotion": "niedowierzanie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 4,
+      "characters": [
+        "Aleksandra Nowak",
+        "Karolina Wiśniewska"
+      ],
+      "visualDescription": "Aleksandra podbiega do kobiety, ale ta cofa się i zachowuje dystans.",
+      "narration": "Zamiast odpowiedzi dostałam ostrzeżenie.",
+      "onScreenText": "„Nie pytaj ojca. On nadal kłamie.”",
+      "emotion": "niepokój",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 5,
+      "characters": [
+        "Aleksandra Nowak",
+        "Marek Nowak"
+      ],
+      "visualDescription": "W domu Aleksandra konfrontuje ojca. Marek siedzi w milczeniu ze spuszczoną głową.",
+      "narration": "Po raz pierwszy nie potrafił spojrzeć mi w oczy.",
+      "onScreenText": "„Kim ona jest?”",
+      "emotion": "gniew",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 6,
+      "characters": [
+        "Aleksandra Nowak",
+        "Marek Nowak"
+      ],
+      "visualDescription": "Marek wyciąga z szuflady pożółkowaną kopertę i drżącymi rękami podaje ją córce.",
+      "narration": "Ojciec przyznał tylko jedno. Matka kazała mu milczeć do końca życia.",
+      "onScreenText": "List sprzed 34 lat",
+      "emotion": "smutek",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 7,
+      "characters": [
+        "Aleksandra Nowak"
+      ],
+      "visualDescription": "Aleksandra czyta list. Jej oczy zatrzymują się na jednym zdaniu.",
+      "narration": "Każda kolejna linijka burzyła moje życie.",
+      "onScreenText": "„Jedna z dziewczynek musi zniknąć.”",
+      "emotion": "przerażenie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 8,
+      "characters": [
+        "Aleksandra Nowak",
+        "Karolina Wiśniewska"
+      ],
+      "visualDescription": "Siostry siedzą naprzeciw siebie przy kuchennym stole. Atmosfera jest lodowata.",
+      "narration": "Karolina znała część prawdy od lat.",
+      "onScreenText": "„Mama odwiedzała mnie potajemnie.”",
+      "emotion": "ból",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 9,
+      "characters": [
+        "Aleksandra Nowak",
+        "Karolina Wiśniewska"
+      ],
+      "visualDescription": "Karolina pokazuje stary dokument przechowywany w teczce.",
+      "narration": "Myślałam, że najgorsze już usłyszałam. Myliłam się.",
+      "onScreenText": "Akt urodzenia",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 10,
+      "characters": [
+        "Aleksandra Nowak",
+        "Karolina Wiśniewska"
+      ],
+      "visualDescription": "Zbliżenie na dokument. Aleksandra zamiera, patrząc na nazwisko ojca.",
+      "narration": "Dokument ujawnił coś, czego żadna z nas się nie spodziewała. Marek nie był ojcem żadnej z nas.",
+      "onScreenText": "„Kim jest nasz prawdziwy ojciec?”",
+      "emotion": "szok",
+      "cliffhanger": true
+    }
+  ]
+}
