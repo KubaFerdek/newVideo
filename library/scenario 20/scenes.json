@@ -4,17 +4,17 @@
       "sceneNumber": 1,
       "characters": ["Aleksandra Nowak"],
       "visualDescription": "Aleksandra siedzi sama w kancelarii i czyta testament zmarłego milionera.",
-      "narration": "Gdy zobaczyłam to nazwisko, przez chwilę myślałam, że źle przeczytałam testament.",
-      "onScreenText": "Warszawa",
-      "emotion": "zaskoczenie",
+      "narration": "Milioner zostawił cały majątek kobiecie, która oficjalnie nie istniała.",
+      "onScreenText": "Spadek wart miliony",
+      "emotion": "szok",
       "cliffhanger": true
     },
     {
       "sceneNumber": 2,
       "characters": ["Aleksandra Nowak"],
       "visualDescription": "Zbliżenie na testament i zapis o ogromnym spadku dla nieznanej kobiety.",
-      "narration": "Problem polegał na tym, że kobieta dziedzicząca miliony... oficjalnie nie istniała.",
-      "onScreenText": "Spadek wart miliony",
+      "narration": "Miałam tylko wykonać testament. Nie spodziewałam się odkryć tajemnicy ukrywanej przez lata.",
+      "onScreenText": "Nieznana spadkobierczyni",
       "emotion": "niedowierzanie",
       "cliffhanger": true
     },
@@ -22,10 +22,10 @@
       "sceneNumber": 3,
       "characters": ["Aleksandra Nowak"],
       "visualDescription": "Aleksandra przegląda bazę danych na komputerze w pustym biurze.",
-      "narration": "Sprawdziłam wszystko. Każda baza kończyła się dokładnie tak samo.",
+      "narration": "Nie było aktu. Nie było adresu. Nie było żadnego śladu tej kobiety.",
       "onScreenText": "Brak wyników",
       "emotion": "frustracja",
-      "cliffhanger": false
+      "cliffhanger": true
     },
     {
       "sceneNumber": 4,
@@ -67,7 +67,7 @@
       "sceneNumber": 8,
       "characters": ["Aleksandra Nowak", "Katarzyna Zielińska"],
       "visualDescription": "Obie kobiety analizują stare zdjęcie znalezione w archiwach.",
-      "narration": "Na odwrocie zdjęcia było tylko jedno słowo. Wystarczyło, żeby zmienić wszystko.",
+      "narration": "Na odwrocie zdjęcia było jedno słowo. Wystarczyło, żeby wszystko się zmieniło.",
       "onScreenText": "Brzeziny",
       "emotion": "intryga",
       "cliffhanger": true
@@ -76,7 +76,7 @@
       "sceneNumber": 9,
       "characters": ["Aleksandra Nowak"],
       "visualDescription": "Aleksandra przyjeżdża do małego miasteczka i zatrzymuje się przed starym budynkiem.",
-      "narration": "Jeśli odpowiedzi istniały, czekały właśnie w tym miejscu.",
+      "narration": "Jeśli odpowiedzi istniały, czekały właśnie tutaj.",
       "onScreenText": "Brzeziny",
       "emotion": "determinacja",
       "cliffhanger": false
@@ -103,7 +103,7 @@
       "sceneNumber": 12,
       "characters": ["Aleksandra Nowak"],
       "visualDescription": "Aleksandra znajduje ukryte pudełko na strychu starego domu.",
-      "narration": "Ktoś ukrył te dokumenty bardzo dawno temu i liczył, że nigdy nie zostaną odnalezione.",
+      "narration": "Ktoś ukrył te dokumenty dawno temu i zrobił wszystko, by nikt ich nie znalazł.",
       "onScreenText": "Tajne akta",
       "emotion": "ekscytacja",
       "cliffhanger": true
@@ -121,7 +121,7 @@
       "sceneNumber": 14,
       "characters": ["Aleksandra Nowak"],
       "visualDescription": "Zbliżenie na dokument z zamazaną rubryką dotyczącą ojca.",
-      "narration": "W dokumencie brakowało tylko jednej informacji. Najważniejszej.",
+      "narration": "Brakowało tylko jednej informacji. Najważniejszej ze wszystkich.",
       "onScreenText": "Ojciec: nieznany",
       "emotion": "napięcie",
       "cliffhanger": true
