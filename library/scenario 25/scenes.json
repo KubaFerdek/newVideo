@@ -1,0 +1,125 @@
+{
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "characters": [
+        "anna_kowalska",
+        "ewa_nowak"
+      ],
+      "visualDescription": "Tuż po pogrzebie. Nieznajoma kobieta wciska Annie kopertę do dłoni i odchodzi. Anna otwiera ją natychmiast.",
+      "narration": "W środku było tylko jedno zdanie. „Jeśli czytasz te słowa, nie jesteś osobą, za którą się uważasz.”",
+      "onScreenText": "NIE JESTEŚ TĄ, ZA KTÓRĄ SIĘ UWAŻASZ",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 2,
+      "characters": [
+        "anna_kowalska",
+        "ewa_nowak"
+      ],
+      "visualDescription": "Anna dogania Ewę przy bramie cmentarza i pokazuje jej kartkę.",
+      "narration": "„Kim pani jest?” Kobieta spojrzała na nią ze łzami w oczach. „Kimś, kto za długo milczał.”",
+      "onScreenText": "KIMŚ, KTO ZA DŁUGO MILCZAŁ",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 3,
+      "characters": [
+        "anna_kowalska",
+        "marek_kowalski"
+      ],
+      "visualDescription": "Anna pokazuje ojcu kopertę. Marek momentalnie blednie i wyrywa kartkę z jej rąk.",
+      "narration": "Po raz pierwszy zobaczyłam strach na twarzy mojego ojca. Prawdziwy strach.",
+      "onScreenText": "ODDAJ MI TO",
+      "emotion": "niepokój",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 4,
+      "characters": [
+        "anna_kowalska",
+        "marek_kowalski"
+      ],
+      "visualDescription": "Ojciec próbuje podrzeć kartkę. Anna zatrzymuje jego rękę.",
+      "narration": "„Tata, o czym wiedział dziadek?” Przez chwilę milczał. „Są rzeczy, których lepiej nie ruszać.”",
+      "onScreenText": "LEPIEJ TEGO NIE RUSZAJ",
+      "emotion": "konflikt",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 5,
+      "characters": [
+        "anna_kowalska",
+        "ewa_nowak"
+      ],
+      "visualDescription": "Ewa siedzi sama w pustym pokoju. Kładzie na stole stare zdjęcie.",
+      "narration": "„Twój dziadek chciał, żebyś poznała prawdę dopiero po jego śmierci.”",
+      "onScreenText": "DOPIERO PO JEGO ŚMIERCI",
+      "emotion": "tajemnica",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 6,
+      "characters": [
+        "anna_kowalska",
+        "ewa_nowak"
+      ],
+      "visualDescription": "Ewa przesuwa zdjęcie w stronę Anny. Widać młodego dziadka obok nieznanej kobiety.",
+      "narration": "To nie było zwykłe zdjęcie. Na odwrocie widniała data sprzed narodzin mojego ojca.",
+      "onScreenText": "30 LAT WCZEŚNIEJ",
+      "emotion": "zaskoczenie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 7,
+      "characters": [
+        "anna_kowalska",
+        "marek_kowalski"
+      ],
+      "visualDescription": "Anna pokazuje zdjęcie ojcu. Marek natychmiast odwraca wzrok.",
+      "narration": "„Skąd to masz?” Nie zaprzeczył. Nie zapytał, czy zdjęcie jest prawdziwe.",
+      "onScreenText": "SKĄD TO MASZ?",
+      "emotion": "podejrzenie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 8,
+      "characters": [
+        "anna_kowalska",
+        "marek_kowalski"
+      ],
+      "visualDescription": "Marek siada ciężko na krześle i zaciska dłonie.",
+      "narration": "„Jeśli będziesz drążyć dalej, rozpadnie się cała nasza rodzina.”",
+      "onScreenText": "CAŁA RODZINA",
+      "emotion": "zagrożenie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 9,
+      "characters": [
+        "anna_kowalska",
+        "ewa_nowak"
+      ],
+      "visualDescription": "Ewa wyciąga z torebki pożółkły akt urodzenia i podaje go Annie.",
+      "narration": "Moje ręce drżały. W dokumencie widniało nazwisko, którego nigdy wcześniej nie słyszałam.",
+      "onScreenText": "AKT URODZENIA",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 10,
+      "characters": [
+        "anna_kowalska",
+        "ewa_nowak",
+        "marek_kowalski"
+      ],
+      "visualDescription": "Anna czyta dokument. Marek wpada do pokoju i próbuje go zabrać. Ewa zaczyna płakać.",
+      "narration": "W rubryce „matka” nie widniało nazwisko mojej babci. Ewa wyszeptała: „Bo to ja cię urodziłam...”",
+      "onScreenText": "TO JA CIĘ URODZIŁAM",
+      "emotion": "dramatyczne odkrycie",
+      "cliffhanger": true
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "imagePrompts": [
+    {
+      "sceneNumber": 1,
+      "imagePrompt": "Anna Kowalska, attractive 34-year-old woman with long dark hair and green eyes, standing alone in an empty living room after a funeral, holding an official birth certificate with visible date discrepancy, frozen in shock, elegant casual clothing, dramatic cinematic window lighting, realistic photography, ultra detailed facial expression, emotional family mystery atmosphere, shallow depth of field, social-media-ready composition, vertical 9:16"
+    },
+    {
+      "sceneNumber": 2,
+      "imagePrompt": "Anna Kowalska showing a birth certificate to Ewa Kowalska, elegant woman in her late fifties with short blonde hair and gray eyes, Ewa suddenly reaching toward the document with visible panic while Anna pulls it back, intense emotional confrontation, cinematic dramatic lighting, realistic photography, ultra detailed facial expressions, family drama tension, vertical 9:16"
+    },
+    {
+      "sceneNumber": 3,
+      "imagePrompt": "Extreme close-up of Ewa Kowalska staring at Anna Kowalska, tears forming in her gray eyes, guilt and fear visible on her face, Anna blurred in foreground watching her intensely, dramatic cinematic lighting, realistic photography, ultra detailed emotional expression, powerful mystery atmosphere, social-media-ready composition, vertical 9:16"
+    },
+    {
+      "sceneNumber": 4,
+      "imagePrompt": "Marek Nowicki, handsome 39-year-old man with dark hair and blue eyes in a classic suit, sitting behind a notary office desk, handing a sealed envelope to Anna Kowalska, both focused on the envelope, elegant office interior, cinematic lighting, realistic photography, ultra detailed, emotional suspense, vertical 9:16"
+    },
+    {
+      "sceneNumber": 5,
+      "imagePrompt": "Anna Kowalska carefully opening a sealed envelope, discovering an old photograph of a newborn baby and a paper with a single name written on it, shock and confusion growing on her face, dramatic close-up composition, cinematic mystery lighting, realistic photography, ultra detailed facial expression, vertical 9:16"
+    },
+    {
+      "sceneNumber": 6,
+      "imagePrompt": "Anna Kowalska holding an old baby photograph toward Ewa Kowalska, Ewa instantly turning her head away with visible fear and emotional pain, tense family confrontation, cinematic contrast lighting, realistic photography, ultra detailed facial expressions, emotional mystery drama atmosphere, vertical 9:16"
+    },
+    {
+      "sceneNumber": 7,
+      "imagePrompt": "Ewa Kowalska sitting alone, trembling hands tightly holding an old photograph, tears in her eyes, overwhelmed by painful memories, dark emotional atmosphere, cinematic lighting, realistic photography, ultra detailed emotional storytelling, intimate close-up framing, vertical 9:16"
+    },
+    {
+      "sceneNumber": 8,
+      "imagePrompt": "Marek Nowicki presenting an official legal document to Anna Kowalska across a desk, Anna staring at the paper in disbelief, document visible but text unreadable, dramatic revelation moment, cinematic office lighting, realistic photography, ultra detailed facial expressions, social-media-ready composition, vertical 9:16"
+    },
+    {
+      "sceneNumber": 9,
+      "imagePrompt": "Anna Kowalska confronting Ewa Kowalska face-to-face, Anna emotional and desperate, Ewa breaking down emotionally, both women locked in intense eye contact, powerful family drama moment, cinematic lighting, realistic photography, ultra detailed facial expressions, emotional climax atmosphere, vertical 9:16"
+    },
+    {
+      "sceneNumber": 10,
+      "imagePrompt": "Ewa Kowalska holding an old faded photograph showing two young identical women, one clearly resembling Anna Kowalska, Anna staring at the photo in complete shock, devastating family revelation moment, dramatic cinematic climax lighting, realistic photography, ultra detailed emotional expressions, mystery thriller atmosphere, social-media-ready composition, vertical 9:16"
+    }
+  ]
+}

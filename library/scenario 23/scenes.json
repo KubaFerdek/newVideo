@@ -1,0 +1,123 @@
+{
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "characters": [
+        "marta"
+      ],
+      "visualDescription": "Marta trzyma stare zdjęcie z dzieciństwa obok artykułu prasowego o porwaniu dziewczynki. Oba dokumenty mają tę samą datę.",
+      "narration": "Ta fotografia została zrobiona dokładnie w dniu porwania. Wtedy pierwszy raz poczułam, że coś jest bardzo nie tak.",
+      "onScreenText": "TO ZDJĘCIE POWSTAŁO W DNIU PORWANIA",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 2,
+      "characters": [
+        "marta",
+        "ewa"
+      ],
+      "visualDescription": "Marta pokazuje zdjęcie Ewie. Twarz ciotki natychmiast blednie.",
+      "narration": "Ciotka spojrzała na fotografię i chciała ją wyrwać z moich rąk.",
+      "onScreenText": "NIE POWINNAŚ TEGO OGLĄDAĆ",
+      "emotion": "niepokój",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 3,
+      "characters": [
+        "marta",
+        "ewa"
+      ],
+      "visualDescription": "Ewa drżącą ręką wskazuje nieznanego mężczyznę stojącego w tle zdjęcia.",
+      "narration": "Zapytałam, kim jest ten człowiek. Odpowiedziała tylko jednym zdaniem.",
+      "onScreenText": "ON ZNISZCZYŁ WIELE ŻYĆ",
+      "emotion": "strach",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 4,
+      "characters": [
+        "marta",
+        "adam"
+      ],
+      "visualDescription": "Adam ogląda zdjęcie na ekranie telefonu i natychmiast zamiera.",
+      "narration": "Dziennikarz rozpoznał twarz ze zdjęcia szybciej, niż się spodziewałam.",
+      "onScreenText": "SZUKANO GO PRZEZ LATA",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 5,
+      "characters": [
+        "marta",
+        "adam"
+      ],
+      "visualDescription": "Adam pokazuje stare zdjęcie zaginionej dziewczynki obok fotografii Marty.",
+      "narration": "Różniły nas lata. Ale oczy wyglądały identycznie.",
+      "onScreenText": "PRZYPADEK?",
+      "emotion": "niepewność",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 6,
+      "characters": [
+        "marta",
+        "ewa"
+      ],
+      "visualDescription": "Marta konfrontuje Ewę. Ciotka unika kontaktu wzrokowego.",
+      "narration": "W końcu zapytałam wprost, czy jestem adoptowana.",
+      "onScreenText": "POWIEDZ MI PRAWDĘ",
+      "emotion": "konflikt",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 7,
+      "characters": [
+        "marta",
+        "ewa"
+      ],
+      "visualDescription": "Po policzkach Ewy spływają łzy. Kobieta kiwa głową.",
+      "narration": "Jej odpowiedź zmieniła wszystko. Tak. Nie byłam jej biologiczną rodziną.",
+      "onScreenText": "UKRYWALI TO 34 LATA",
+      "emotion": "wstrząs",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 8,
+      "characters": [
+        "marta",
+        "adam"
+      ],
+      "visualDescription": "Adam wręcza Marcie kopię starego dokumentu.",
+      "narration": "Na papierze widniało nazwisko kobiety, która zgłosiła zaginięcie córki.",
+      "onScreenText": "MATKA ZAGINIONEGO DZIECKA",
+      "emotion": "emocjonalne napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 9,
+      "characters": [
+        "marta",
+        "ewa"
+      ],
+      "visualDescription": "Marta pokazuje dokument Ewie. Ciotka całkowicie się załamuje.",
+      "narration": "Ewa przestała zaprzeczać. Wiedziała dokładnie, kim była ta kobieta.",
+      "onScreenText": "ZNAŁAM JĄ",
+      "emotion": "rozpacz",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 10,
+      "characters": [
+        "marta",
+        "ewa"
+      ],
+      "visualDescription": "Ewa wyciąga ukryty list i podaje go Marcie. Na kopercie widnieje jedno imię.",
+      "narration": "Drżącym głosem powiedziała: To nie ty zostałaś porwana. To ty jesteś zaginionym dzieckiem. A twoja prawdziwa matka wciąż żyje.",
+      "onScreenText": "TWOJA MATKA NADAL CIĘ SZUKA",
+      "emotion": "oszołomienie",
+      "cliffhanger": true
+    }
+  ]
+}

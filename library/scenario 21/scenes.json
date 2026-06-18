@@ -1,0 +1,125 @@
+{
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "characters": [
+        "anna_kowalska",
+        "marek_nowak"
+      ],
+      "visualDescription": "Przed cmentarzem Marek zatrzymuje Annę i patrzy jej prosto w oczy.",
+      "narration": "Gdy opuszczała pogrzeb matki, obcy mężczyzna powiedział coś, co zatrzymało jej świat. 'Jestem twoim bratem.'",
+      "onScreenText": "Po pogrzebie",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 2,
+      "characters": [
+        "anna_kowalska",
+        "marek_nowak"
+      ],
+      "visualDescription": "Anna patrzy na Marka z niedowierzaniem, a on wyciąga stare zdjęcie.",
+      "narration": "Chciała odejść. Wtedy zobaczyła fotografię, na której jej matka trzymała na rękach małego chłopca.",
+      "onScreenText": "Kim on jest?",
+      "emotion": "niedowierzanie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 3,
+      "characters": [
+        "anna_kowalska",
+        "marek_nowak"
+      ],
+      "visualDescription": "Marek wskazuje na zdjęcie, Anna wpatruje się w twarz dziecka.",
+      "narration": "Marek wypowiedział zdanie jeszcze bardziej niepokojące. 'Mama oddała mnie, gdy miałem pięć lat.'",
+      "onScreenText": "Ukrywana prawda",
+      "emotion": "wstrząs",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 4,
+      "characters": [
+        "anna_kowalska",
+        "ewa_kowalska"
+      ],
+      "visualDescription": "Anna pokazuje zdjęcie Ewie w pustej sali po stypie.",
+      "narration": "Twarz Ewy natychmiast pobladła. Wyglądała tak, jakby rozpoznała kogoś, kogo nie chciała pamiętać.",
+      "onScreenText": "Ewa wie więcej",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 5,
+      "characters": [
+        "anna_kowalska",
+        "ewa_kowalska"
+      ],
+      "visualDescription": "Ewa siedzi ze spuszczoną głową, unikając wzroku Anny.",
+      "narration": "Po chwili milczenia przyznała jedno. 'Twoja matka ukrywała pewną część swojego życia.'",
+      "onScreenText": "Pierwsze wyznanie",
+      "emotion": "niepokój",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 6,
+      "characters": [
+        "anna_kowalska",
+        "marek_nowak"
+      ],
+      "visualDescription": "Marek kładzie na stole pożółkły dokument.",
+      "narration": "Anna spodziewała się kolejnego kłamstwa. Zamiast tego zobaczyła dokument z nazwiskiem swojej matki.",
+      "onScreenText": "Dowód",
+      "emotion": "dezorientacja",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 7,
+      "characters": [
+        "anna_kowalska",
+        "marek_nowak"
+      ],
+      "visualDescription": "Anna nerwowo przegląda dokument, Marek obserwuje ją w ciszy.",
+      "narration": "Daty się zgadzały. Im dłużej czytała, tym trudniej było odrzucić jego historię.",
+      "onScreenText": "To zaczyna mieć sens",
+      "emotion": "niepewność",
+      "cliffhanger": false
+    },
+    {
+      "sceneNumber": 8,
+      "characters": [
+        "anna_kowalska",
+        "ewa_kowalska"
+      ],
+      "visualDescription": "Ewa ociera łzy i wreszcie podnosi wzrok na Annę.",
+      "narration": "Ewa nie wytrzymała. 'Twoja matka nie oddała go dobrowolnie.'",
+      "onScreenText": "Nowy sekret",
+      "emotion": "emocjonalny ból",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 9,
+      "characters": [
+        "anna_kowalska",
+        "ewa_kowalska"
+      ],
+      "visualDescription": "Anna zastyga, słuchając kolejnych słów Ewy.",
+      "narration": "Ktoś zmusił jej matkę do rozstania z dzieckiem. Ale Ewa nadal nie chciała powiedzieć kto.",
+      "onScreenText": "Kto za tym stał?",
+      "emotion": "gniew",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 10,
+      "characters": [
+        "anna_kowalska",
+        "ewa_kowalska",
+        "marek_nowak"
+      ],
+      "visualDescription": "Ewa drżącą dłonią podaje Annie starą kopertę pozostawioną przez matkę.",
+      "narration": "W środku był list. Na pierwszej stronie matka napisała: 'Jeśli to czytasz, prawda o Marku jest jeszcze gorsza, niż myślisz. Twój ojciec nie był tym, za kogo go uważałaś.'",
+      "onScreenText": "Część 2?",
+      "emotion": "szok",
+      "cliffhanger": true
+    }
+  ]
+}

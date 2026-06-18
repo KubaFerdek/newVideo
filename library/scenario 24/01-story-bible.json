@@ -1,0 +1,34 @@
+{
+  "title": "Nazwisko, Którego Nie Było",
+  "genre": "Family Drama",
+  "setting": "Współczesna Polska. Historia rozpoczyna się kilka dni po pogrzebie matki i rozgrywa się między rodzinnym domem, kancelarią notarialną oraz niewielkim miasteczkiem, w którym ponad trzydzieści lat wcześniej wydarzyło się coś, co ktoś bardzo chciał ukryć.",
+  "mainConflict": "Po śmierci matki Anna odkrywa, że jej akt urodzenia został sfałszowany. Dokument zawiera dane, które nie zgadzają się z informacjami, jakie znała przez całe życie. Gdy zaczyna zadawać pytania, bliscy reagują strachem, unikają odpowiedzi i próbują powstrzymać ją przed poznaniem prawdy.",
+  "centralMystery": "Kim naprawdę są biologiczni rodzice Anny i dlaczego ktoś wiele lat temu podjął ryzyko sfałszowania oficjalnych dokumentów, aby ukryć jej prawdziwą tożsamość?",
+  "emotionalHook": "Kilka godzin po pogrzebie matki Anna znajduje dokument, który sugeruje, że kobieta, którą przez całe życie nazywała mamą, mogła nigdy nie być jej biologiczną matką. Im więcej odkrywa, tym bardziej zaczyna się bać, że cała jej przeszłość została zbudowana na kłamstwie.",
+  "characters": [
+    {
+      "id": "anna_kowalska",
+      "name": "Anna Kowalska",
+      "age": 34,
+      "role": "Główna bohaterka",
+      "personality": "Inteligentna, empatyczna, uparta, emocjonalnie silna, nie potrafi odpuścić, gdy czuje, że ktoś ją okłamuje.",
+      "visualIdentity": "Atrakcyjna kobieta o długich ciemnych włosach i zielonych oczach. Naturalny wygląd, elegancki codzienny styl, wyrazista mimika, widoczne emocje na twarzy."
+    },
+    {
+      "id": "ewa_kowalska",
+      "name": "Ewa Kowalska",
+      "age": 58,
+      "role": "Starsza siostra zmarłej matki",
+      "personality": "Opanowana, skryta, lojalna wobec rodziny, obciążona poczuciem winy, rozdarta między prawdą a obietnicą złożoną przed laty.",
+      "visualIdentity": "Elegancka kobieta po pięćdziesiątce o krótkich jasnych włosach i szarych oczach. Zadbana, poważna, często sprawiająca wrażenie osoby ukrywającej emocje."
+    },
+    {
+      "id": "marek_nowicki",
+      "name": "Marek Nowicki",
+      "age": 39,
+      "role": "Notariusz związany z testamentem",
+      "personality": "Spokojny, rzeczowy, uczciwy, ostrożny w słowach, ale coraz bardziej zaangażowany w odkrycie prawdy.",
+      "visualIdentity": "Przystojny mężczyzna o ciemnych włosach i niebieskich oczach. Klasyczny garnitur, profesjonalny wygląd, budzi zaufanie i poczucie bezpieczeństwa."
+    }
+  ]
+}

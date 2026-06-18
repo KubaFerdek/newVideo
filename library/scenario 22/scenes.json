@@ -1,0 +1,122 @@
+{
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "characters": [
+        "joanna_kowalska",
+        "elzbieta_kowalska"
+      ],
+      "visualDescription": "Joanna siedzi sama w ciemnym salonie. Na starym telewizorze odtwarza się nagranie VHS. Elzbieta patrzy prosto w kamerę, wyraźnie przestraszona.",
+      "narration": "Mama spojrzała w obiektyw i powiedziała tylko jedno. Nie ufaj nikomu z naszej rodziny.",
+      "onScreenText": "NIE UFAJ NIKOMU",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 2,
+      "characters": [
+        "joanna_kowalska",
+        "elzbieta_kowalska"
+      ],
+      "visualDescription": "Nagranie trwa. Elzbieta drżącą ręką pokazuje zamkniętą kopertę.",
+      "narration": "Jeśli Marek dowie się, że to oglądasz, będzie za późno. Potem obraz nagle się urywa.",
+      "onScreenText": "KIM NAPRAWDĘ JEST MAREK?",
+      "emotion": "niepokój",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 3,
+      "characters": [
+        "joanna_kowalska",
+        "marek_kowalski"
+      ],
+      "visualDescription": "Joanna odwraca się i zauważa Marka stojącego w drzwiach. Mężczyzna patrzy na ekran telewizora.",
+      "narration": "Marek zbladł. Skąd masz tę kasetę?",
+      "onScreenText": "ON TO ROZPOZNAŁ",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 4,
+      "characters": [
+        "joanna_kowalska",
+        "marek_kowalski"
+      ],
+      "visualDescription": "Marek próbuje zabrać kasetę z rąk Joanny. Między nimi dochodzi do szarpaniny.",
+      "narration": "Powiedział, że mama była chora i wymyślała rzeczy. Joanna mu nie uwierzyła.",
+      "onScreenText": "ODDAJ TĘ KASETĘ",
+      "emotion": "konflikt",
+      "cliffhanger": false
+    },
+    {
+      "sceneNumber": 5,
+      "characters": [
+        "joanna_kowalska"
+      ],
+      "visualDescription": "Joanna otwiera szufladę biurka matki. W środku znajduje identyczną kopertę jak na nagraniu.",
+      "narration": "Mama zostawiła coś jeszcze. Koperta czekała dokładnie tam, gdzie pokazała na filmie.",
+      "onScreenText": "DRUGA WSKAZÓWKA",
+      "emotion": "zaskoczenie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 6,
+      "characters": [
+        "joanna_kowalska"
+      ],
+      "visualDescription": "Joanna wyciąga z koperty stare zdjęcie. Widać na nim młodą Elzbietę z małą dziewczynką.",
+      "narration": "Problem był jeden. Tą dziewczynką nie była Joanna.",
+      "onScreenText": "KTO TO JEST?",
+      "emotion": "dezorientacja",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 7,
+      "characters": [
+        "joanna_kowalska",
+        "marek_kowalski"
+      ],
+      "visualDescription": "Joanna pokazuje zdjęcie Markowi. Jego pewny siebie wyraz twarzy natychmiast znika.",
+      "narration": "Po raz pierwszy zabrakło mu słów. Kazał jej natychmiast spalić fotografię.",
+      "onScreenText": "UKRYWANA PRAWDA",
+      "emotion": "niepokój",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 8,
+      "characters": [
+        "joanna_kowalska"
+      ],
+      "visualDescription": "Joanna odwraca zdjęcie. Na odwrocie znajduje krótki odręczny napis.",
+      "narration": "Jeśli Joanna to czyta, oznacza to, że wciąż jej nie powiedzieli.",
+      "onScreenText": "NIE POWIEDZIELI CZEGO?",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 9,
+      "characters": [
+        "joanna_kowalska",
+        "marek_kowalski"
+      ],
+      "visualDescription": "Marek wpada do pokoju i widzi napis na odwrocie zdjęcia.",
+      "narration": "Nie czytaj dalej. Chroniłem cię całe życie. To był bardziej rozkaz niż prośba.",
+      "onScreenText": "CZYM JĄ CHRONIŁ?",
+      "emotion": "strach",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 10,
+      "characters": [
+        "joanna_kowalska",
+        "marek_kowalski",
+        "elzbieta_kowalska"
+      ],
+      "visualDescription": "Joanna wyciąga z koperty ostatnią kartkę i czyta ją na głos. Marek zamiera.",
+      "narration": "Mama napisała: Marek nie jest twoim wujem. To on przez lata ukrywał, kim naprawdę jesteś.",
+      "onScreenText": "MAREK NIE JEST TWOIM WUJEM",
+      "emotion": "szok",
+      "cliffhanger": true
+    }
+  ]
+}

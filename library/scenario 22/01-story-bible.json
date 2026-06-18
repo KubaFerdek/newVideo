@@ -1,0 +1,34 @@
+{
+  "title": "Ostrzeżenie Sprzed Lat",
+  "genre": "Family Mystery Thriller",
+  "setting": "Współczesna Polska. Historia rozpoczyna się po śmierci matki w rodzinnym domu na obrzeżach Krakowa i prowadzi przez kancelarię notarialną, rodzinne spotkania oraz miejsca związane z tajemnicami sprzed ponad dwudziestu lat.",
+  "mainConflict": "Po śmierci matki Joanna odnajduje stare nagranie VHS, na którym matka błaga ją, by nigdy nie ufała własnej rodzinie. Gdy Joanna zaczyna szukać odpowiedzi, bliscy próbują za wszelką cenę powstrzymać ją przed odkryciem prawdy.",
+  "centralMystery": "Dlaczego matka ostrzegała córkę przed rodziną i jaką tajemnicę wszyscy ukrywają od ponad dwóch dekad?",
+  "emotionalHook": "Kilka dni po pogrzebie Joanna znajduje nagranie, na którym jej zmarła matka patrzy prosto w kamerę i mówi: 'Jeśli to oglądasz, oznacza to, że mnie już nie ma. Nie ufaj nikomu z naszej rodziny.'",
+  "characters": [
+    {
+      "id": "joanna_kowalska",
+      "name": "Joanna Kowalska",
+      "age": 34,
+      "role": "Protagonistka, córka zmarłej kobiety",
+      "personality": "Inteligentna, emocjonalna, uparta, lojalna wobec bliskich, ale gotowa zaryzykować wszystko dla prawdy",
+      "visualIdentity": "Atrakcyjna kobieta o długich ciemnych włosach, zielonych oczach i jasnej cerze. Elegancki, nowoczesny styl ubioru w stonowanych kolorach. Wyrazista mimika i silna ekspresja emocji."
+    },
+    {
+      "id": "elzbieta_kowalska",
+      "name": "Elzbieta Kowalska",
+      "age": 62,
+      "role": "Zmarła matka pozostawiająca tajemnicze nagrania",
+      "personality": "Opiekuńcza, tajemnicza, ostrożna, inteligentna, przez lata żyjąca w strachu przed ujawnieniem prawdy",
+      "visualIdentity": "Kobieta po sześćdziesiątce o krótkich siwiejących włosach i łagodnych rysach twarzy. Na archiwalnych nagraniach ubrana skromnie, z widocznym napięciem i smutkiem w oczach."
+    },
+    {
+      "id": "marek_kowalski",
+      "name": "Marek Kowalski",
+      "age": 58,
+      "role": "Wuj Joanny i nieformalna głowa rodziny",
+      "personality": "Charyzmatyczny, opanowany, przekonujący, kontrolujący, skrywający własne motywy",
+      "visualIdentity": "Wysoki mężczyzna o lekko posiwiałych włosach i przenikliwym spojrzeniu. Zawsze nienagannie ubrany. Sprawia wrażenie człowieka godnego zaufania, ale jego twarz często pozostaje nieodczytywalna."
+    }
+  ]
+}

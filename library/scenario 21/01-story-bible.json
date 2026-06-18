@@ -1,0 +1,34 @@
+{
+  "title": "Nieznany Brat",
+  "genre": "Family Drama",
+  "setting": "Współczesna Polska. Historia rozpoczyna się podczas pogrzebu matki w niewielkim mieście, a następnie prowadzi przez rodzinny dom, kancelarię notarialną oraz miejsca związane z przeszłością rodziny.",
+  "mainConflict": "Podczas pogrzebu matki Anna zostaje skonfrontowana z nieznajomym mężczyzną, który twierdzi, że jest jej starszym bratem. Kobieta jest przekonana, że jest jedynaczką, jednak kolejne odkrycia zaczynają podważać wszystko, w co wierzyła przez całe życie.",
+  "centralMystery": "Kim naprawdę jest mężczyzna pojawiający się na pogrzebie i dlaczego matka przez całe życie ukrywała prawdę o jego istnieniu?",
+  "emotionalHook": "Kilka minut po zakończeniu ceremonii pogrzebowej nieznajomy podchodzi do Anny i mówi: 'Nasza mama nie chciała, żebyśmy się poznali.'",
+  "characters": [
+    {
+      "id": "anna_kowalska",
+      "name": "Anna Kowalska",
+      "age": 38,
+      "role": "Główna bohaterka",
+      "personality": "Empatyczna, odpowiedzialna, lojalna wobec rodziny, ale bardzo nieufna wobec niespodziewanych rewelacji.",
+      "visualIdentity": "Atrakcyjna kobieta o zielonych oczach i długich ciemnobrązowych włosach, elegancki czarny płaszcz, subtelny makijaż, inteligentne i wyraziste spojrzenie."
+    },
+    {
+      "id": "marek_nowak",
+      "name": "Marek Nowak",
+      "age": 44,
+      "role": "Mężczyzna twierdzący, że jest bratem Anny",
+      "personality": "Spokojny, opanowany, tajemniczy, zdeterminowany, noszący w sobie wieloletni ból i poczucie odrzucenia.",
+      "visualIdentity": "Przystojny mężczyzna o krótkich ciemnych włosach z lekką siwizną na skroniach, szare oczy, elegancki czarny garnitur, poważny wyraz twarzy."
+    },
+    {
+      "id": "ewa_kowalska",
+      "name": "Ewa Kowalska",
+      "age": 62,
+      "role": "Najbliższa przyjaciółka zmarłej matki",
+      "personality": "Ciepła, troskliwa, ale wyraźnie obciążona sekretem, który ukrywa od wielu lat.",
+      "visualIdentity": "Kobieta o krótkich blond włosach, delikatnych rysach twarzy, eleganckim ciemnym płaszczu i smutnym, pełnym napięcia spojrzeniu."
+    }
+  ]
+}

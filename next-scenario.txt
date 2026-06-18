@@ -179,14 +179,72 @@ Mystery Thriller
 Target Audience:
 Women 25-55
 
+21
+Topic:
+Mężczyzna na pogrzebie twierdzi, że jest bratem kobiety, choć nigdy wcześniej go nie widziała.
+
+Genre:
+Family Drama
+
+Target Audience:
+Women 25-55
+
+22
+Topic:
+Kobieta znajduje stare nagranie, na którym matka ostrzega ją przed własną rodziną.
+
+Genre:
+Family Mystery Thriller
+
+Target Audience:
+Women 25-55
+
+23
+Topic:
+Po latach kobieta odkrywa, że zdjęcie z jej dzieciństwa zostało wykonane w dniu jej porwania.
+
+Genre:
+Mystery Drama
+
+Target Audience:
+Women 25-55
+
+24
+Topic:
+Po śmierci matki kobieta dowiaduje się, że jej akt urodzenia został sfałszowany.
+
+Genre:
+Family Drama
+
+Target Audience:
+Women 25-55
+
+25
+Topic:
+Na pogrzebie dziadka nieznajoma kobieta przekazuje wnuczce kopertę z jednym zdaniem.
+
+Genre:
+Emotional Mystery
+
+Target Audience:
+Women 25-55
+
+
 Ja bym zaczął od 1, 2, 14, 15, 18 i 19.
 
 18 jest taka sama jak moje 0
 
-wygenerowane
+wygenerowanie nieopublikowane
+21
+22
+23
+24
+25
+wygenerowane i opublikowane
 0
 2
 14
 15
 18
 20
+

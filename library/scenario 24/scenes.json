@@ -1,0 +1,122 @@
+{
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "characters": [
+        "anna_kowalska"
+      ],
+      "visualDescription": "Anna stoi w pustym salonie po pogrzebie. W dłoniach trzyma swój akt urodzenia i nagle zauważa, że data wystawienia dokumentu jest późniejsza niż data jej narodzin o kilka lat.",
+      "narration": "Miałam uporządkować dokumenty po mamie. Zamiast tego znalazłam dowód, że ktoś zmienił moją przeszłość.",
+      "onScreenText": "MÓJ AKT URODZENIA ZOSTAŁ ZMIENIONY",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 2,
+      "characters": [
+        "anna_kowalska",
+        "ewa_kowalska"
+      ],
+      "visualDescription": "Anna pokazuje dokument Ewie. Ewa blednie i natychmiast próbuje zabrać kartkę z jej rąk.",
+      "narration": "Ciocia spojrzała tylko przez sekundę. To wystarczyło, żeby się przestraszyła.",
+      "onScreenText": "NIE POWINNAŚ TEGO WIDZIEĆ",
+      "emotion": "niepokój",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 3,
+      "characters": [
+        "anna_kowalska",
+        "ewa_kowalska"
+      ],
+      "visualDescription": "Zbliżenie na twarz Ewy. W oczach pojawiają się łzy, gdy patrzy na Annę.",
+      "narration": "Zadałam jedno pytanie. Odpowiedź zmieniła wszystko.",
+      "onScreenText": "„TWOJA MATKA UKRYWAŁA PRAWDĘ.”",
+      "emotion": "napięcie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 4,
+      "characters": [
+        "anna_kowalska",
+        "marek_nowicki"
+      ],
+      "visualDescription": "Marek siedzi za biurkiem notarialnym i podaje Annie kopertę pozostawioną przez jej matkę.",
+      "narration": "Matka zostawiła mi coś jeszcze. Nigdy wcześniej o tym nie wspomniała.",
+      "onScreenText": "OTWORZYĆ TYLKO PO MOJEJ ŚMIERCI",
+      "emotion": "ciekawość",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 5,
+      "characters": [
+        "anna_kowalska"
+      ],
+      "visualDescription": "Anna otwiera kopertę. W środku znajduje się zdjęcie noworodka i kartka z jednym nazwiskiem.",
+      "narration": "Nie było wyjaśnień. Tylko zdjęcie i nazwisko, którego nigdy nie słyszałam.",
+      "onScreenText": "KATARZYNA MAJEWSKA",
+      "emotion": "dezorientacja",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 6,
+      "characters": [
+        "anna_kowalska",
+        "ewa_kowalska"
+      ],
+      "visualDescription": "Anna pokazuje zdjęcie Ewie. Ewa natychmiast odwraca wzrok.",
+      "narration": "Tym razem ciocia nie zaprzeczyła. Wyglądała, jakby właśnie wrócił najgorszy koszmar.",
+      "onScreenText": "„MYŚLAŁAM, ŻE TO NIGDY NIE WRÓCI.”",
+      "emotion": "strach",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 7,
+      "characters": [
+        "anna_kowalska",
+        "ewa_kowalska"
+      ],
+      "visualDescription": "Ewa siedzi w milczeniu, ściskając stare zdjęcie drżącymi dłońmi.",
+      "narration": "Po długiej ciszy wyznała coś, czego nie chciała mówić przez trzydzieści lat.",
+      "onScreenText": "„TWOJA MATKA NIE BYŁA WTEDY W CIĄŻY.”",
+      "emotion": "niedowierzanie",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 8,
+      "characters": [
+        "anna_kowalska",
+        "marek_nowicki"
+      ],
+      "visualDescription": "Marek pokazuje Annie oficjalny dokument znaleziony w aktach testamentowych.",
+      "narration": "Myślałam, że znam już prawdę. Wtedy pojawił się kolejny dokument.",
+      "onScreenText": "BRAK REJESTRACJI NARODZIN",
+      "emotion": "szok",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 9,
+      "characters": [
+        "anna_kowalska",
+        "ewa_kowalska"
+      ],
+      "visualDescription": "Anna konfrontuje Ewę. Ewa nie jest już w stanie ukrywać emocji.",
+      "narration": "Wreszcie zadałam pytanie, którego wszyscy unikali.",
+      "onScreenText": "KIM JESTEM?",
+      "emotion": "rozpacz",
+      "cliffhanger": true
+    },
+    {
+      "sceneNumber": 10,
+      "characters": [
+        "anna_kowalska",
+        "ewa_kowalska"
+      ],
+      "visualDescription": "Ewa wyciąga stare zdjęcie dwóch młodych kobiet. Jedna z nich wygląda identycznie jak Anna.",
+      "narration": "Ciocia spojrzała mi w oczy i powiedziała słowa, które zatrzymały mi oddech.",
+      "onScreenText": "„TWOJA MATKA NIE SFAŁSZOWAŁA AKTU. UKRYŁA, ŻE MIAŁA SIOTRĘ BLIŹNIACZKĘ.”",
+      "emotion": "oszołomienie",
+      "cliffhanger": true
+    }
+  ]
+}

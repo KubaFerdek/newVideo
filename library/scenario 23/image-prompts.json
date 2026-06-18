@@ -1,0 +1,44 @@
+{
+  "imagePrompts": [
+    {
+      "sceneNumber": 1,
+      "imagePrompt": "Marta Kowalska, attractive 34-year-old woman with green eyes and long dark brown hair, holding an old childhood photograph beside a newspaper article about a kidnapped girl, both documents showing the same visible date, Marta frozen in shock, intense emotional expression, dramatic cinematic lighting, realistic photography, ultra detailed facial features, mystery thriller atmosphere, shallow depth of field, social-media-ready composition, vertical 9:16"
+    },
+    {
+      "sceneNumber": 2,
+      "imagePrompt": "Marta Kowalska showing an old photograph to Ewa Kowalska, elegant woman in her sixties with short blonde hair, Ewa suddenly turning pale and reaching toward the photo with alarm, powerful emotional tension between both women, cinematic indoor lighting, realistic photography, ultra detailed facial expressions, dramatic family mystery atmosphere, vertical 9:16"
+    },
+    {
+      "sceneNumber": 3,
+      "imagePrompt": "Ewa Kowalska holding the old photograph with trembling hands while pointing at an unidentified man visible in the background of the picture, Marta watching with fear and confusion, emotional suspense, dramatic cinematic lighting, realistic photography, ultra detailed faces and hands, mystery drama composition, vertical 9:16"
+    },
+    {
+      "sceneNumber": 4,
+      "imagePrompt": "Adam Nowicki, man with short dark hair, light beard and blue eyes, staring at a smartphone displaying the old photograph, his expression suddenly frozen in recognition and disbelief, cinematic newsroom-style lighting, realistic photography, ultra detailed facial expression, suspenseful atmosphere, social-media-ready framing, vertical 9:16"
+    },
+    {
+      "sceneNumber": 5,
+      "imagePrompt": "Adam Nowicki holding an old missing-child photograph beside a photo of Marta Kowalska, both images visible side by side, Marta staring at them in shock, emotional realization moment, cinematic dramatic lighting, realistic photography, ultra detailed facial expressions, mystery revelation atmosphere, vertical 9:16"
+    },
+    {
+      "sceneNumber": 6,
+      "imagePrompt": "Marta Kowalska confronting Ewa Kowalska face to face across a table, Marta demanding answers with intense determination, Ewa avoiding eye contact and visibly uncomfortable, dramatic family conflict, cinematic lighting, realistic photography, ultra detailed emotional expressions, powerful tension, vertical 9:16"
+    },
+    {
+      "sceneNumber": 7,
+      "imagePrompt": "Close-up of Ewa Kowalska crying, tears running down her face as she slowly nods, Marta visible nearby reacting with shock, devastating family revelation, cinematic emotional lighting, realistic photography, ultra detailed facial expressions, heartbreaking atmosphere, vertical 9:16"
+    },
+    {
+      "sceneNumber": 8,
+      "imagePrompt": "Adam Nowicki handing a copied official document to Marta Kowalska, Marta reading the paper with growing emotion and disbelief, important name visible but unreadable, dramatic cinematic lighting, realistic photography, ultra detailed faces and document details, mystery drama composition, vertical 9:16"
+    },
+    {
+      "sceneNumber": 9,
+      "imagePrompt": "Marta Kowalska presenting the document to Ewa Kowalska, Ewa completely breaking down emotionally after seeing the name on the page, tears, guilt and fear visible on her face, cinematic dramatic lighting, realistic photography, ultra detailed emotional storytelling, vertical 9:16"
+    },
+    {
+      "sceneNumber": 10,
+      "imagePrompt": "Ewa Kowalska pulling a hidden letter from a secret drawer and handing it to Marta Kowalska, close-up of the envelope with a single name written on it, Marta staring in disbelief while Ewa looks devastated, major revelation moment, cinematic climax lighting, realistic photography, ultra detailed facial expressions, emotional mystery thriller atmosphere, social-media-ready composition, vertical 9:16"
+    }
+  ]
+}

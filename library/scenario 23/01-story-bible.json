@@ -1,0 +1,34 @@
+{
+  "title": "Zdjęcie, Którego Nie Powinna Pamiętać",
+  "genre": "Mystery Drama",
+  "setting": "Współczesna Polska. Historia rozgrywa się między Warszawą, rodzinnym domem zmarłej matki oraz niewielkim miasteczkiem, w którym ponad dwadzieścia lat wcześniej doszło do niewyjaśnionego zaginięcia dziecka.",
+  "mainConflict": "Po śmierci matki Marta znajduje stare zdjęcie ze swojego dzieciństwa. Kiedy przypadkowo trafia na artykuł o nierozwiązanym porwaniu sprzed lat, odkrywa, że fotografia została wykonana dokładnie tego samego dnia. Im bardziej próbuje poznać prawdę, tym bardziej okazuje się, że najbliższe jej osoby mogą ukrywać coś od ponad dwóch dekad.",
+  "centralMystery": "Dlaczego zdjęcie Marty zostało wykonane w dniu porwania zaginionej dziewczynki i dlaczego na fotografii znajduje się osoba, której nikt z rodziny nie potrafi rozpoznać?",
+  "emotionalHook": "Kobieta przez całe życie wierzyła, że zna swoją przeszłość. Jedno stare zdjęcie sprawia jednak, że zaczyna podejrzewać, iż sama może być dzieckiem związanym z zaginięciem sprzed lat.",
+  "characters": [
+    {
+      "id": "marta",
+      "name": "Marta Kowalska",
+      "age": 34,
+      "role": "Główna bohaterka",
+      "personality": "Inteligentna, wrażliwa, zdeterminowana, emocjonalnie silna, ale podatna na rodzinne tajemnice.",
+      "visualIdentity": "Atrakcyjna kobieta o zielonych oczach i długich ciemnobrązowych włosach, naturalny wygląd, elegancki codzienny styl, wyrazista mimika."
+    },
+    {
+      "id": "adam",
+      "name": "Adam Nowicki",
+      "age": 39,
+      "role": "Dziennikarz śledczy badający stare zaginięcie",
+      "personality": "Dociekliwy, opanowany, inteligentny, sceptyczny, nieustępliwy w poszukiwaniu prawdy.",
+      "visualIdentity": "Mężczyzna o krótkich ciemnych włosach, kilkudniowym zaroście i niebieskich oczach, casualowa kurtka, profesjonalny i pewny siebie wygląd."
+    },
+    {
+      "id": "ewa",
+      "name": "Ewa Kowalska",
+      "age": 61,
+      "role": "Ciotka Marty i strażniczka rodzinnych sekretów",
+      "personality": "Troskliwa, opiekuńcza, skryta, nerwowa pod presją, rozdarta między lojalnością a poczuciem winy.",
+      "visualIdentity": "Elegancka kobieta po sześćdziesiątce, krótkie jasne włosy, subtelny makijaż, spokojna twarz skrywająca niepokój."
+    }
+  ]
+}
